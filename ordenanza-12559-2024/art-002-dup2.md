@@ -1,0 +1,1 @@
+Artículo 2º: El área competente del Departamento Ejecutivo, deberá designar las áreas abocadas al cumplimiento de la misma, priorizando la participación de la secretaría, dirección o programa de ambiente y de la Jefatura de Gabinete, a fin de garantizar la transversalidad de la misma.
