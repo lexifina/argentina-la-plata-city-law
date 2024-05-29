@@ -1,0 +1,6 @@
+ARTICULO 2º: De forma.
+La Plata, 10 de Abril de 2024.
+Cúmplase, regístrese, publíquese y archívese.
+Dr. Julio Alak. Intendente. Dr. Guillermo Federico Comadira. Secretario Legal y Técnico.
+La Plata, 10 de Abril de 2024.
+Registrada en el día de la fecha bajo el número DOCE MIL QUINIENTOS CINCUENTA Y OCHO (12558)
