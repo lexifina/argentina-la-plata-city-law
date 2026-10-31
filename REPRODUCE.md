@@ -214,20 +214,45 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-12592-2024` | Ordenanza 12592/2024: Modifíquese los Artículos 1º y 2º de la Ordenanza N° 12.299, los que quedarán redactados de la siguiente manera: | 1 | 2024-09-01 to 2024-09-01 |
 | `ordenanza-12593-2024` | Ordenanza 12593/2024: Apruébase las obras de infraestructura del "Plan 1000 cuadras" que como Anexos I y II forman parte de la presente Ordenanza, declarándolas de utilidad pública. | 1 | 2024-09-01 to 2024-09-01 |
 | `ordenanza-12587-2024` | Ordenanza 12587/2024: Autorizase al Departamento Ejecutivo a promover las obras de puesta en valor de las Plazas Italia y Rocha, acorde a los proyectos que se acompañan en los Anexos II y III, adjuntos a la presente, así como también fueron d | 1 | 2024-08-07 to 2024-08-07 |
+| `ordenanza-12588-2024` | Ordenanza 12588/2024: Ratificase el Decreto Nº 1368/24, referente a la designación en el cargo de Presidente del Ente Municipal de La Plata, Sr. Alberto Hernando Soule. | 1 | 2024-08-07 to 2024-08-07 |
+| `ordenanza-12579-2024` | Ordenanza 12579/2024: Ratificando el Convenio de Cooperación entre la Asociación Civil APRILP, con el propósito de desarrollar acciones de promoción y protección de derechos tendientes a la inclusión en el marco del "Proyecto de Fortalecimien | 1 | 2024-07-14 to 2024-07-14 |
+| `ordenanza-12583-2024` | Ordenanza 12583/2024: OBJETO: | 1 | 2024-07-14 to 2024-07-14 |
+| `ordenanza-12584-2024` | Ordenanza 12584/2024: Incorpórese el artículo 7º bis a la Ordenanza 10.250 el cual quedará redactado de la siguiente manera: | 1 | 2024-07-14 to 2024-07-14 |
+| `ordenanza-12585-2024` | Ordenanza 12585/2024: Autorízase al Departamento Ejecutivo a emplazar en la Plaza Belgrano de City Bell, una placa en homenaje al perro callejero "Romeo". | 1 | 2024-07-14 to 2024-07-14 |
+| `ordenanza-12586-2024` | Ordenanza 12586/2024: Declárese Ciudadano Ilustre "Post Mortem" de la Ciudad de La Plata, en virtud de su heroica entrega en defensa de nuestra Soberanía Nacional, al Sr. Osvaldo Luis Fregote, Héroe platense de Malvinas. | 1 | 2024-07-14 to 2024-07-14 |
+| `ordenanza-12571-2024` | Ordenanza 12571/2024: Autorizase al Departamento Ejecutivo a realizar la venta y/o entrega, a cuenta del valor, para la adquisición de nuevas unidades, de los vehículos que se detallan a continuación: | 1 | 2024-06-14 to 2024-06-14 |
+| `ordenanza-12574-2024` | Ordenanza 12574/2024: Desígnase con el nombre de "La Esquina de la Educación" a la calle 148 entre las calles 473 bis y 474 de City Bell, en cumplimiento con lo establecido en la Ordenanza Nº 11011/12. | 1 | 2024-06-14 to 2024-06-14 |
+| `ordenanza-12575-2024` | Ordenanza 12575/2024: Autorizase la colocación de un "Banco Rojo" a la organización "Orgullosamente Platense", a través de su Centro Cultural "Cultura es con vos", en el marco de la Ordenanza 11.769, en la calle Cantilo y 14C, de la localidad | 1 | 2024-06-14 to 2024-06-14 |
+| `ordenanza-12576-2024` | Ordenanza 12576/2024: Autorízase a la comunidad "General Juan Calfucurá" a erigir un hito en homenaje al "Toqui Juan Calfucurá" en la plazoleta frente a la entrada del Museo de Ciencias Naturales de La Plata, ubicado dentro del Paseo del Bosq | 1 | 2024-06-14 to 2024-06-14 |
+| `ordenanza-12558-2024` | Ordenanza 12558/2024: Modificando el artículo 2 de la Ordenanza 12.255, el que quedará redactado de la siguiente manera: | 1 | 2024-05-29 to 2024-05-29 |
+| `ordenanza-12559-2024` | Ordenanza 12559/2024: Modificando el artículo Nº 2 de la Ordenanza 12.071 de adhesión a la Ley Provincia 15.276, la cual establece las disposiciones referidas a la Formación en materia ambiental, para la Administración Pública Provincial, que | 1 | 2024-05-29 to 2024-05-29 |
+| `ordenanza-12560-2024` | Ordenanza 12560/2024: Modificando el texto del artículo 1 de la Ordenanza 6459, que quedará redactado de la siguiente manera. | 1 | 2024-05-29 to 2024-05-29 |
+| `ordenanza-12561-2024` | Ordenanza 12561/2024: Modifíquese el artículo 1 o de la Ordenanza 11463, la cual quedará redactada de la siguiente manera. | 1 | 2024-05-29 to 2024-05-29 |
+| `ordenanza-12562-2024` | Ordenanza 12562/2024: Autorizando al Departamento Ejecutivo, a la colocación de una placa en homenaje a la Fundación del Barrio de Villa Elvira, en la esquina de la Avenida 120 y la calle 76 de la Ciudad de La Plata. | 1 | 2024-05-29 to 2024-05-29 |
+| `ordenanza-12563-2024` | Ordenanza 12563/2024: Autorizando al Departamento Ejecutivo, a realizar una transacción extrajudicial, con el Sr. DIEGO GONZALEZ, DNI. 25.993.113, por la suma total de PESOS UN MILLÓN SETECIENTOS SIETE MIL TRESCIENTOS CON 00/100 (1.707.300,00 | 1 | 2024-05-29 to 2024-05-29 |
+| `ordenanza-12564-2024` | Ordenanza 12564/2024: Ratificase el Convenio con la empresa Ticketera S.A., por la prestación del servicio de venta de entradas de los espectáculos a desarrollarse en el Teatro Coliseo Podestá, el que se tramita por las actuaciones N° 4061-20 | 1 | 2024-05-29 to 2024-05-29 |
+| `ordenanza-12557-2024` | Ordenanza 12557/2024: Disponiendo a la Inscripción de la Condición "Ausente por Desaparición Forzada", según indica el artículo 2 de la Ordenanza 12204, en los legajos laborales de Alberto Osvaldo Perego y Carlos Damián Perego, trabajadores m | 1 | 2024-04-14 to 2024-04-14 |
+| `ordenanza-12551-2023` | Ordenanza 12551/2023: Ratificase el Decreto Nº 4209/23, referente a la designación en el cargo de Gerente de la Administración del Mercado Regional La Plata al Sr. Marcelo lafolla. | 1 | 2024-01-11 to 2024-01-11 |
+| `ordenanza-12495-2023` | Ordenanza 12495/2023: Establézcase un régimen especial denominado "Compre y Contratación Local", para el otorgamiento de prioridad en las compras de insumo, bienes y en las contrataciones de obras y servicios hacia las pequeñas y medianas emp | 1 | 2023-12-19 to 2023-12-19 |
+| `ordenanza-12499-2023` | Ordenanza 12499/2023: Autorízase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. Alejo Domínguez D.N.I. 40.289.701, por la suma total de PESOS OCHENTA Y SIETE MIL (87.000,00), en concepto de resarcimiento del dañ | 1 | 2023-12-19 to 2023-12-19 |
+| `ordenanza-12501-2023` | Ordenanza 12501/2023: Autorízase al Departamento Ejecutivo a realizar una transacción extrajudicial con la Sra. Verónica Florencia Torres, D.N.I. 37.865.12, por la suma total de PESOS QUINIENTOS SETENTA MIL (570.000,00), en concepto de resarc | 1 | 2023-12-19 to 2023-12-19 |
+| `ordenanza-12502-2023` | Ordenanza 12502/2023: Condónese la deuda generada por la Tasa por los Servicios Urbanos Municipales, correspondiente a la Partida N° 21663 0000, Nomenclatura Catastral Circunscripción 1, Sección G, Manzana 488, Parcela 39 a, hasta la fecha de | 1 | 2023-12-19 to 2023-12-19 |
+| `ordenanza-12503-2023` | Ordenanza 12503/2023: Condénese la deuda generada por la Tasa por los Servicios Urbanos Municipales, correspondiente a la Partida N° 17438 000, Nomenclatura Catastral Circunscripción 1, Sección Q, Manzana 1318, Parcela 15, Partida 17438, hast | 1 | 2023-12-19 to 2023-12-19 |
+| `ordenanza-12504-2023` | Ordenanza 12504/2023: lnstitúyase la segunda semana de junio de cada año como "La Semana de la concientización de la Enuresis", a fin de crear conciencia sobre ésta condición que padece la población infantil. | 1 | 2023-12-19 to 2023-12-19 |
 
-The build made 200 commits:
+The build made 225 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 200 | first version of an act |
+| 225 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 200 laws in the record.
-- 400 tags.
+- 225 laws in the record.
+- 425 tags.
 
 ## Dates
 
@@ -239,13 +264,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5fd5f95b72f3d73be194ed972e847988edcee0b924839d24b09b65da155f638a` (1643832 bytes).
+- Corpus: sha256 `ca0b304b1d4d82773186734c57b609b0298cc78fa2349bd4617b7ca9b8d12c02` (1727453 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-200 versions of 200 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -256,6 +281,9 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are added newest bulletin first, in parts of about 50. An ordinance whose page carries only an extract, or no article, is left out.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Only complete ordinances with no integral normative annex and no numerical reference in the later official SIBOM ordinances checked through 3 November 2026 are included as current text.
+- Each act has one current-text version and first_law null. Its unchanged official wording is dated by the act’s own effective date, or the ninth day after official publication where no specific clause appears.
+- Candidates with annexes, later references, or uncertain source-specific commencement are held for reconstruction or OCR and are absent from this part.
 
 ## What AI did and did not do
 
@@ -267,3 +295,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- A model reviewed the source comparison, amendment screen and hold decisions; it wrote no law text.

@@ -219,6 +219,36 @@
     "ordenanza-12637-2025"
    ],
    "sha256": "d10068ea8e31a8531ef5cd4247bc0b9d76c6912524b74ac0aa24eaefd70a39fb"
+  },
+  "35-current-text-reviewed.json": {
+   "acts": [
+    "ordenanza-12495-2023",
+    "ordenanza-12499-2023",
+    "ordenanza-12501-2023",
+    "ordenanza-12502-2023",
+    "ordenanza-12503-2023",
+    "ordenanza-12504-2023",
+    "ordenanza-12551-2023",
+    "ordenanza-12557-2024",
+    "ordenanza-12558-2024",
+    "ordenanza-12559-2024",
+    "ordenanza-12560-2024",
+    "ordenanza-12561-2024",
+    "ordenanza-12562-2024",
+    "ordenanza-12563-2024",
+    "ordenanza-12564-2024",
+    "ordenanza-12571-2024",
+    "ordenanza-12574-2024",
+    "ordenanza-12575-2024",
+    "ordenanza-12576-2024",
+    "ordenanza-12579-2024",
+    "ordenanza-12583-2024",
+    "ordenanza-12584-2024",
+    "ordenanza-12585-2024",
+    "ordenanza-12586-2024",
+    "ordenanza-12588-2024"
+   ],
+   "sha256": "1aa1313a070b6219536c04e73d745c70bd37ed149c5a36053845c47be21ffd6f"
   }
  },
  "schema": 1
