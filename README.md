@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-250 ordinances so far, in force from 19 December 2023 to 30 September 2026, each as published in the Boletín Oficial Municipal de La Plata, added newest first in parts.
+200 ordinances so far, in force from 7 August 2024 to 30 September 2026, each as published in the Boletín Oficial Municipal de La Plata, added newest first in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -212,57 +212,6 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-12592-2024/` | Ordenanza 12592/2024: Modifíquese los Artículos 1º y 2º de la Ordenanza N° 12.299, los que quedarán redactados de la siguiente manera: | in force 1 September 2024 |
 | `ordenanza-12593-2024/` | Ordenanza 12593/2024: Apruébase las obras de infraestructura del "Plan 1000 cuadras" que como Anexos I y II forman parte de la presente Ordenanza, declarándolas… | in force 1 September 2024 |
 | `ordenanza-12587-2024/` | Ordenanza 12587/2024: Autorizase al Departamento Ejecutivo a promover las obras de puesta en valor de las Plazas Italia y Rocha, acorde a los proyectos que se a… | in force 7 August 2024 |
-
-| `ordenanza-12588-2024/` | Ordenanza 12588/2024: Ratificase el Decreto Nº 1368/24, referente a la designación en el cargo de Presidente del Ente Municipal de La Plata, Sr. Alberto Hernand… | in force 7 August 2024 |
-| `ordenanza-12578-2024/` | Ordenanza 12578/2024: Adáptese como Escudo y Bandera Oficial de la localidad de José Hernández el modelo representativo que como ANEXO I se adjunta al presente,… | in force 14 July 2024 |
-| `ordenanza-12579-2024/` | Ordenanza 12579/2024: Ratificando el Convenio de Cooperación entre la Asociación Civil APRILP, con el propósito de desarrollar acciones de promoción y protecció… | in force 14 July 2024 |
-| `ordenanza-12580-2024/` | Ordenanza 12580/2024: Declárese a la Ciudad de La Plata "Ciudad de accesibilidad e inclusión para todas las personas con Trastorno del Espectro Autista (TEA)". | in force 14 July 2024 |
-| `ordenanza-12581-2024/` | Ordenanza 12581/2024: Otorgase un espacio de reserva, sin cargo, destinado a tareas de carga y descarga de transporte de caudales y Clearing Bancario, en corres… | in force 14 July 2024 |
-| `ordenanza-12582-2024/` | Ordenanza 12582/2024: Modificase el artículo 1° de la Ordenanza Municipal N° 5976, el que quedará redactado de la siguiente manera: | in force 14 July 2024 |
-| `ordenanza-12583-2024/` | Ordenanza 12583/2024: OBJETO: | in force 14 July 2024 |
-| `ordenanza-12584-2024/` | Ordenanza 12584/2024: Incorpórese el artículo 7º bis a la Ordenanza 10.250 el cual quedará redactado de la siguiente manera: | in force 14 July 2024 |
-| `ordenanza-12585-2024/` | Ordenanza 12585/2024: Autorízase al Departamento Ejecutivo a emplazar en la Plaza Belgrano de City Bell, una placa en homenaje al perro callejero "Romeo". | in force 14 July 2024 |
-| `ordenanza-12586-2024/` | Ordenanza 12586/2024: Declárese Ciudadano Ilustre "Post Mortem" de la Ciudad de La Plata, en virtud de su heroica entrega en defensa de nuestra Soberanía Nacion… | in force 14 July 2024 |
-| `ordenanza-12569-2024/` | Ordenanza 12569/2024: Colóquese una placa recordatoria, en el Centro de Atención Primaria de la Salud Nº 44, en memoria del trabajador municipal, Cesar Hurtado,… | in force 14 June 2024 |
-| `ordenanza-12570-2024/` | Ordenanza 12570/2024: Declárase Sitio Histórico Cultural al Eje Fundacional de la Ciudad de La Plata, comprendido por el espacio calle de las Avenidas 51, 53, 1… | in force 14 June 2024 |
-| `ordenanza-12571-2024/` | Ordenanza 12571/2024: Autorizase al Departamento Ejecutivo a realizar la venta y/o entrega, a cuenta del valor, para la adquisición de nuevas unidades, de los v… | in force 14 June 2024 |
-| `ordenanza-12572-2024/` | Ordenanza 12572/2024: Modifíquese el Anexo, que forma parte a la Ordenanza Nº 12445, en relación para los vehículos AB461SL y CET778, sea reemplazado por AG493T… | in force 14 June 2024 |
-| `ordenanza-12573-2024/` | Ordenanza 12573/2024: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por el Sr PABLO JAVIER ROMERO, con destino a la Dirección del Coliseo… | in force 14 June 2024 |
-| `ordenanza-12574-2024/` | Ordenanza 12574/2024: Desígnase con el nombre de "La Esquina de la Educación" a la calle 148 entre las calles 473 bis y 474 de City Bell, en cumplimiento con lo… | in force 14 June 2024 |
-| `ordenanza-12575-2024/` | Ordenanza 12575/2024: Autorizase la colocación de un "Banco Rojo" a la organización "Orgullosamente Platense", a través de su Centro Cultural "Cultura es con vo… | in force 14 June 2024 |
-| `ordenanza-12576-2024/` | Ordenanza 12576/2024: Autorízase a la comunidad "General Juan Calfucurá" a erigir un hito en homenaje al "Toqui Juan Calfucurá" en la plazoleta frente a la entr… | in force 14 June 2024 |
-| `ordenanza-12577-2024/` | Ordenanza 12577/2024: Créase el "Régimen de Protección de Calles con Valor Patrimonial", que tendrá como objetivo principal la identificación, relevamiento y co… | in force 14 June 2024 |
-| `ordenanza-12558-2024/` | Ordenanza 12558/2024: Modificando el artículo 2 de la Ordenanza 12.255, el que quedará redactado de la siguiente manera: | in force 29 May 2024 |
-| `ordenanza-12559-2024/` | Ordenanza 12559/2024: Modificando el artículo Nº 2 de la Ordenanza 12.071 de adhesión a la Ley Provincia 15.276, la cual establece las disposiciones referidas a… | in force 29 May 2024 |
-| `ordenanza-12560-2024/` | Ordenanza 12560/2024: Modificando el texto del artículo 1 de la Ordenanza 6459, que quedará redactado de la siguiente manera. | in force 29 May 2024 |
-| `ordenanza-12561-2024/` | Ordenanza 12561/2024: Modifíquese el artículo 1 o de la Ordenanza 11463, la cual quedará redactada de la siguiente manera. | in force 29 May 2024 |
-| `ordenanza-12562-2024/` | Ordenanza 12562/2024: Autorizando al Departamento Ejecutivo, a la colocación de una placa en homenaje a la Fundación del Barrio de Villa Elvira, en la esquina d… | in force 29 May 2024 |
-| `ordenanza-12563-2024/` | Ordenanza 12563/2024: Autorizando al Departamento Ejecutivo, a realizar una transacción extrajudicial, con el Sr. DIEGO GONZALEZ, DNI. 25.993.113, por la suma t… | in force 29 May 2024 |
-| `ordenanza-12564-2024/` | Ordenanza 12564/2024: Ratificase el Convenio con la empresa Ticketera S.A., por la prestación del servicio de venta de entradas de los espectáculos a desarrolla… | in force 29 May 2024 |
-| `ordenanza-12565-2024/` | Ordenanza 12565/2024: Otórguese un espacio de Ascenso y Descenso de personas, con cargo, frente a ECCO SALUD S.R.L (Equipo de Cuidados Continuos Oncológicos) si… | in force 29 May 2024 |
-| `ordenanza-12566-2024/` | Ordenanza 12566/2024: Establézcase un área de carga y descarga de materiales, a la Dirección de Sistemas de Semaforización de la Municipalidad de La Plata, en c… | in force 29 May 2024 |
-| `ordenanza-12567-2024/` | Ordenanza 12567/2024: Otórguese un espacio reservado para el estacionamiento, sin cargo, al Sr. Luciano Satti y Tribulatti - DNI 39.936.316, en la calle 5 N°477… | in force 29 May 2024 |
-| `ordenanza-12568-2024/` | Ordenanza 12568/2024: Otórguese un espacio de Ascenso y Descenso de personas, sin cargo, frente a la Dirección de Acceso e Inclusión en Salud, perteneciente al … | in force 29 May 2024 |
-| `ordenanza-12557-2024/` | Ordenanza 12557/2024: Disponiendo a la Inscripción de la Condición "Ausente por Desaparición Forzada", según indica el artículo 2 de la Ordenanza 12204, en los … | in force 14 April 2024 |
-| `ordenanza-12553-2024/` | Ordenanza 12553/2024: Modifíquense los Artículos 1º y 2º de la Ordenanza Nº 12.299, los que quedarán redactados de la siguiente manera: | in force 25 January 2024 |
-| `ordenanza-12554-2024/` | Ordenanza 12554/2024: Prorrógase por el término de doce (12) meses, la renovación de las unidades afectadas al servicio de taxis, para aquellas habilitaciones c… | in force 25 January 2024 |
-| `ordenanza-12555-2024/` | Ordenanza 12555/2024: Prorrógase por el término de doce (12) meses, la renovación de las unidades afectadas al servicio de transporte escolar, para aquellas hab… | in force 25 January 2024 |
-| `ordenanza-12556-2024/` | Ordenanza 12556/2024: Prorrógase por el término de doce (12) meses, la renovación de las unidades afectadas al servicio de remises, para aquellas habilitaciones… | in force 25 January 2024 |
-| `ordenanza-12550-2023/` | Ordenanza 12550/2023: Apruébese la Ordenanza para la Administración Mercado Regional La Plata, para el ejercicio 2024 conforme al Anexo que forma parte integran… | in force 11 January 2024 |
-| `ordenanza-12551-2023/` | Ordenanza 12551/2023: Ratificase el Decreto Nº 4209/23, referente a la designación en el cargo de Gerente de la Administración del Mercado Regional La Plata al … | in force 11 January 2024 |
-| `ordenanza-12552-2023/` | Ordenanza 12552/2023: Adherir, a partir de la entrada en vigencia de su prórroga, a las Leyes de la Provincia de Buenos Aires Nº 14.806, Nº 14.812, Nº 14.815 y … | in force 11 January 2024 |
-| `ordenanza-12548-2023/` | Ordenanza 12548/2023: Apruébase la Ordenanza Fiscal de la Municipalidad de La Plata para el ejercicio 2024 conforme al Anexo que forma parte integrante de la pr… | in force 7 January 2024 |
-| `ordenanza-12549-2023/` | Ordenanza 12549/2023: Apruébase la Ordenanza Impositiva de la Municipalidad de La Plata para el ejercicio 2024 conforme al Anexo que forma parte integrante de l… | in force 7 January 2024 |
-| `ordenanza-12495-2023/` | Ordenanza 12495/2023: Establézcase un régimen especial denominado "Compre y Contratación Local", para el otorgamiento de prioridad en las compras de insumo, bie… | in force 19 December 2023 |
-| `ordenanza-12496-2023/` | Ordenanza 12496/2023: Otórguese un espacio de ascenso y descenso de personas, sin cargo, frente al Centro Educativo Terapéutico Fundación EICE, sito en calle 46… | in force 19 December 2023 |
-| `ordenanza-12497-2023/` | Ordenanza 12497/2023: Otórguese un espacio de ascenso y descenso de personas, con cargo, frente a FALL Ortopedia S.A., sito en calle 9 N° 1146 entre 55 y 56, en… | in force 19 December 2023 |
-| `ordenanza-12498-2023/` | Ordenanza 12498/2023: Otórguese un espacio reservado de estacionamiento, sin cargo al Sr. Flores Oscar D.N.I. 11.343.199, en la calle 144 N° 1625 entre calles 6… | in force 19 December 2023 |
-| `ordenanza-12499-2023/` | Ordenanza 12499/2023: Autorízase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. Alejo Domínguez D.N.I. 40.289.701, por la suma to… | in force 19 December 2023 |
-| `ordenanza-12500-2023/` | Ordenanza 12500/2023: Autorízase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. Emanuel Adrián Salomone D.N.I. 29.577.209, por la… | in force 19 December 2023 |
-| `ordenanza-12501-2023/` | Ordenanza 12501/2023: Autorízase al Departamento Ejecutivo a realizar una transacción extrajudicial con la Sra. Verónica Florencia Torres, D.N.I. 37.865.12, por… | in force 19 December 2023 |
-| `ordenanza-12502-2023/` | Ordenanza 12502/2023: Condónese la deuda generada por la Tasa por los Servicios Urbanos Municipales, correspondiente a la Partida N° 21663 0000, Nomenclatura Ca… | in force 19 December 2023 |
-| `ordenanza-12503-2023/` | Ordenanza 12503/2023: Condénese la deuda generada por la Tasa por los Servicios Urbanos Municipales, correspondiente a la Partida N° 17438 000, Nomenclatura Cat… | in force 19 December 2023 |
-| `ordenanza-12504-2023/` | Ordenanza 12504/2023: lnstitúyase la segunda semana de junio de cada año como "La Semana de la concientización de la Enuresis", a fin de crear conciencia sobre … | in force 19 December 2023 |
 
 ## Source
 
