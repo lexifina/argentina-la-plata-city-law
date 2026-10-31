@@ -1,0 +1,2805 @@
+{
+ "country": "AR-B-LA-PLATA",
+ "acts": [
+  {
+   "slug": "ordenanza-12772-2026",
+   "short": "Ordenanza 12772/2026",
+   "title": "Ordenanza 12772/2026: Dispónese la baja patrimonial definitiva de los restos de dos (2) vehículos marca Ford, modelo Ranger DC XL 2.0L T 2x4, Dominios AG524FU y AG611CX, registrados bajo número de inventario Nº 221571 y Nº 221343, respectivam",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433472",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433472",
+     "sha256": "ed7b73ea6c9d37f31d2cb957e91e0dd4960c6f060c139467b575bcc920ec88cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12773-2026",
+   "short": "Ordenanza 12773/2026",
+   "title": "Ordenanza 12773/2026: Dispónese la baja patrimonial definitiva de los restos del vehículo de propiedad municipal marca Ford, modelo Ranger DC XL 2.0L T 4x2 MT D, año 2024, Dominio AG611CW, número de inventario Nº 221342, el cual se encontraba",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433473",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433473",
+     "sha256": "5624e995fb37f4a12bbbff3e3701b56e3a2b3fd4f9ac3a6b93911a7442f2df57"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12774-2026",
+   "short": "Ordenanza 12774/2026",
+   "title": "Ordenanza 12774/2026: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por el Sr. Clua Sebastián con destino a la Dirección del Teatro Municipal Coliseo Podestá, cuyos antecedentes obran en el expediente Nº 4061-2078563/20",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433474",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433474",
+     "sha256": "573d9d270aa166c5c2d6e9730b703493bdbefaaf4d682725a1e99e2d7e47685d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12775-2026",
+   "short": "Ordenanza 12775/2026",
+   "title": "Ordenanza 12775/2026: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con la Sra. MARTINEZ AMELIA DNI Nº 3.902.742, por la suma total y única de PESOS NOVECIENTOS OCHENTA MIL ($980.000), en concepto de indemnizac",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433475",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433475",
+     "sha256": "b1492aaf5d1432300c16bd0af9fa3db18b9fcba76e8c44e630142eb6faf8de50"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12776-2026",
+   "short": "Ordenanza 12776/2026",
+   "title": "Ordenanza 12776/2026: Ratificase el Convenio de cesión de uso y cooperación mutua celebrado con fecha 22 de julio de 2026 entre el Arzobispado de La Plata representado por su Arzobispo Mons. Sr. Gustavo Carrara, DNI: 23.073.571, y la Municipa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433476",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433476",
+     "sha256": "c34392c9975576a25b8cc2d0ed361028075567338593894116c1cd9190b74adf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12777-2026",
+   "short": "Ordenanza 12777/2026",
+   "title": "Ordenanza 12777/2026: Autorizase a dar de baja del patrimonio de este Concejo Deliberante, los bienes en calidad de rezagos que se detallan en el Anexo l.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433479",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2433479",
+     "sha256": "c8589f667024494c32c8559707bf63df2efad885d9433e1ec9ecf80b5e78ae34"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12778-2026",
+   "short": "Ordenanza 12778/2026",
+   "title": "Ordenanza 12778/2026: Créase el \"Sello Talentos Productivos-Comercios Familiares Históricos\", destinado a reconocer, visibilizar y fortalecer aquellos establecimientos comerciales del municipio que se destaquen por su antigüedad, trayectoria,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445978",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 14,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445978",
+     "sha256": "d05df66ba90a6a752edb842dc05cb8c3d93a8a6fe24413db34196e9dd1f1d66c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12779-2026",
+   "short": "Ordenanza 12779/2026",
+   "title": "Ordenanza 12779/2026: Autorízase al Departamento Ejecutivo a realizar una transacción extrajudicial con la Sra. CANCELIERE LAURA JORGELINA DNI Nº 22.851.393, por la suma total y única de PESOS SIETE MILLONES QUINIENTOS CINCUENTA MIL ($7.550.0",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445979",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445979",
+     "sha256": "ba4df1801d6f137aa5c5d3ae1d2835a2060360bee06b1711765d2823d71736a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12780-2026",
+   "short": "Ordenanza 12780/2026",
+   "title": "Ordenanza 12780/2026: Dispónese la baja patrimonial definitiva de los restos de un vehículo marca Ford, modelo Ranger DC XL 2.0L T 4x2 MT D, Dominio AG645JM, registrado bajo número de inventario Nº 221480, de propiedad municipal, al servicio ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445980",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445980",
+     "sha256": "0d0b6253d33c23f664ba6d25037b320364dfaa3cf85d7aa53aacd867a9be2565"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12781-2026",
+   "short": "Ordenanza 12781/2026",
+   "title": "Ordenanza 12781/2026: Disponese la baja patrimonial definitiva de un (1) vehículo de propiedad municipal marca Volkswagen, modelo Voyage 1.6 MSI , Dominios AB245QO, registrados bajo número de inventario Nº 197570, respectivamente, el cual se ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445981",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445981",
+     "sha256": "518c9f109368e99bcd9a53f325479ce69e7095b5a1eef2f738854ec783bd215e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12782-2026",
+   "short": "Ordenanza 12782/2026",
+   "title": "Ordenanza 12782/2026: Ratifícase el Convenio que tramita por expediente 4061-2125798/2026, oportunamente suscripto por el Departamento Ejecutivo con la FUNDACION ARGENTINA DE BARBEROS SOLIDARIOS (F.A.B.S.), a través del cual se acuerda la col",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445982",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445982",
+     "sha256": "d6c5e38f172d337511e9e9b642f803f0089ced1f7245ac5ebc38f6ea752f0508"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12783-2026",
+   "short": "Ordenanza 12783/2026",
+   "title": "Ordenanza 12783/2026: Nómbrese a la rotonda ubicada en la intersección de las avenidas 520 y 25 como \"Rotonda al Inmigrante Italiano\".",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445983",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2445983",
+     "sha256": "722b17b2ae43f5a0ede3486a19715488d3dd85d8b3258980e6108421ecb42db9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12784-2026",
+   "short": "Ordenanza 12784/2026",
+   "title": "Ordenanza 12784/2026: Autorizar en función de las consideraciones expuestas al ENTE MUNICIPAL DE LA PLATA (Ordenanza 8409) el segundo llamado a venta en subasta pública de los inmuebles que a continuación se detallan:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2446580",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2446580",
+     "sha256": "ad5f9b36be54fe857ff34135f750dab73302f17fd8b0936eff4ad9cd651f4459"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12785-2026",
+   "short": "Ordenanza 12785/2026",
+   "title": "Ordenanza 12785/2026: Ratificase el Convenio que tramita por expediente 4061-2149933/2026, oportunamente suscripto por el Departamento Ejecutivo con el Hospital Italiano de La Plata Asociación de Socorros Mutuos y Beneficencia, a través del c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2446581",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2446581",
+     "sha256": "1b4067371359c4cf0e4e35a7ff558056fa8dd9b097f45bfc07f6a107517cbf36"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12786-2026",
+   "short": "Ordenanza 12786/2026",
+   "title": "Ordenanza 12786/2026: Derógase la Ordenanza 12.690/25, dejando sin efecto la Licitación Pública Nº 42/2025, en función de la modificación sustancial y sobreviniente a la convocatoria de las condiciones económicas, metodológicas y regulatorias",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2446582",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2446582",
+     "sha256": "960a8e2465e7deb3e0443b793b4b90794e6468fefde4fa4f489072abab303c60"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12787-2026",
+   "short": "Ordenanza 12787/2026",
+   "title": "Ordenanza 12787/2026: Otórgase un espacio reservado para el estacionamiento, sin cargo, a favor del Sr. Aguirre José Augusto, DNI Nº 34.411.081, en carácter de padre y representante legal del menor Aguirre Juan Bautista, en calle 15 Nº 459 en",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2446583",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15632/contents/2446583",
+     "sha256": "03f6cf8e871e257745d5c2a1fb3aacb77136e08f094e37f4fc4fd4f5526abea7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12742-2026",
+   "short": "Ordenanza 12742/2026",
+   "title": "Ordenanza 12742/2026: Otórgase un espacio reservado de estacionamiento, sin cargo, a favor de la Sra. Simone Maria Laura, DNI Nº 23.829.485, en su carácter de madre y representante legal de la menor Simone Nina, titular del CUD Nº 21454, domi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409060",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409060",
+     "sha256": "1f019f7ef15890c5bbaf55987d0bb6a4ed9ae79f6aacbf25648c19bfc0802074"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12743-2026",
+   "short": "Ordenanza 12743/2026",
+   "title": "Ordenanza 12743/2026: Otórgase un espacio reservado para el estacionamiento, sin cargo, a la Sra. Trofimovih Gabriela, madre de Aguirre Juan Bautista, DNI 58.178.14, titular del CUD 869299327, en avenida 7 Nº 1566 entre calles 516 y 517, en u",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409061",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409061",
+     "sha256": "55631313b10e385ea59d63a8a0ee88d9480e044f444a151a640e5fdef5ba0e52"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12744-2026",
+   "short": "Ordenanza 12744/2026",
+   "title": "Ordenanza 12744/2026: Otórgase un espacio reservado para el estacionamiento, sin cargo, a la Sra. Maria de los Milagros Bazzano, DNI N\" 22.336.692, domiciliada en calle 42 Nº 438 entre calles 3 y 4. El espacio reservado se implementará en la ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409062",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409062",
+     "sha256": "6e1989281b1e8829cc54b8778e7d1f2c5b49842677a4f52ed6bde98429cd6fcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12745-2026",
+   "short": "Ordenanza 12745/2026",
+   "title": "Ordenanza 12745/2026: Otórgase un espacio reservado para el estacionamiento, sin cargo, al Sr. Aquino Antonio Juan, DNI Nº 11.961.421, en calle 41 Nº 374, Departamento \"B\", entre las calles 2 y 3, en una extensión de seis (6) metros, en corre",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409063",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409063",
+     "sha256": "0c8c63042c541a2337e61e3280e58b825ebadc71a9377d2916930e1781a346ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12746-2026",
+   "short": "Ordenanza 12746/2026",
+   "title": "Ordenanza 12746/2026: Otórgase un espacio reservado para estacionamiento, sin cargo, al Sr. Cicchino Gerardo Enrique, DNI Nº 7.827.732 en avenida 19 Nº 1279 entre las calles 58 y 59. Dicho espacio estará ubicado específicamente sobre avenida ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409064",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409064",
+     "sha256": "af0d1798242e439c8d812357274f8606b7716c4abadccee219989f59d833f988"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12747-2026",
+   "short": "Ordenanza 12747/2026",
+   "title": "Ordenanza 12747/2026: Otórgase un espacio reservado, con cargo, destinado exclusivamente al ascenso y descenso de personas, al Centro Médico de Rehabilitación Pediátrica, con Certificado de Habilitación Nº 32.859, ubicado en calle 34 N° 741 ,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409065",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409065",
+     "sha256": "66a4880943963cd1733fc81660ed1bd4566878d65e9e0d34fa10023a170fdf0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12748-2026",
+   "short": "Ordenanza 12748/2026",
+   "title": "Ordenanza 12748/2026: Otórgase un espacio reservado para estacionamiento, sin cargo, destinado exclusivamente al Ascenso y Descenso de personas con movilidad reducida a la Escuela Primaria Nº 12, ubicada en calle 14A entre 467 y 471 , en una ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409066",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409066",
+     "sha256": "907c37aa33667a916dba3da65c4260d9e751bdb53217acb0d25398ba0d2a37ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12749-2026",
+   "short": "Ordenanza 12749/2026",
+   "title": "Ordenanza 12749/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por la artista Alicia Sottile, con destino al Museo Municipal de Arte (MUMART), dependiente de la Secretaria de Cultura, cuyos antecedentes obran en el",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409067",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409067",
+     "sha256": "2a7bb6abbb5db436d14e9411de5de3bff56c2b95bbde87cb39766dbdd4c64215"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12750-2026",
+   "short": "Ordenanza 12750/2026",
+   "title": "Ordenanza 12750/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por la artista Graciela González Ribot, con destino al Museo Municipal de Arte (MUMART), dependiente de la Secretaría de Cultura, cuyos antecedentes ob",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409068",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409068",
+     "sha256": "ddbb89dd0a3ac74548a9343ec17bcb03248473c879d78b2ec6aa98f6c43d0b44"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12751-2026",
+   "short": "Ordenanza 12751/2026",
+   "title": "Ordenanza 12751/2026: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por la artista Soledad Lagruta, con destino al Museo Municipal de Arte (MUMART), dependiente de la Secretaria de Cultura, cuyos antecedentes obran en e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409069",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409069",
+     "sha256": "4f5660a7b0ba3c9c4f33f16ca6f8fe4ebe390086bd300cfc1ce4c40912e6268f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12752-2026",
+   "short": "Ordenanza 12752/2026",
+   "title": "Ordenanza 12752/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por la artista Silvia Crespo Copello, con destino al Museo Municipal de Arte (MUMART), dependiente de la Secretaria de Cultura, cuyos antecedentes obra",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409070",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409070",
+     "sha256": "5d34c81036bc7e921566f07ca71355680e37f329a2864b38c534958a82039e1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12753-2026",
+   "short": "Ordenanza 12753/2026",
+   "title": "Ordenanza 12753/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por el artista Miguel Angel Velit Aguilar, con destino al Museo Municipal de Arte (MUMART), dependiente de la Secretaría de Cultura, cuyos antecedentes",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409071",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409071",
+     "sha256": "8674cafcf64db32ac63e94fde74b20e44deb4140876270db0aafeb8e82e28719"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12754-2026",
+   "short": "Ordenanza 12754/2026",
+   "title": "Ordenanza 12754/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por la Sra. Lorena Di Clemente, con destino al Teatro Municipal Coliseo Podestá, consistente en los siguientes bienes, según constancias obrantes en el",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409072",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409072",
+     "sha256": "03514ea6eaa49a7588cf5a848444833af744a77d626e972e4747b2774f6b903c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12755-2026",
+   "short": "Ordenanza 12755/2026",
+   "title": "Ordenanza 12755/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por la Sra. Natalia Savini, con destino al Teatro Municipal Coliseo Podestá, consistente en los siguientes bienes, según consta en los antecedentes obr",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409073",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409073",
+     "sha256": "0309573f71ae8015ed3f5276314cfdc3c034f1162898d800d28bca206703a0fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12756-2026",
+   "short": "Ordenanza 12756/2026",
+   "title": "Ordenanza 12756/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por la sra. Karina Casanova, con destino al Teatro Municipal Coliseo Podestá, consistente en los siguientes bienes, según constan en los antecedentes a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409074",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409074",
+     "sha256": "b62d3d78d2b58e89bdfb8a4d8bad245de26011470d2ddffc5f68611685ba4c17"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12757-2026",
+   "short": "Ordenanza 12757/2026",
+   "title": "Ordenanza 12757/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por el Sr. Lazcano Néstor con destino al Teatro Municipal Coliseo Podestá, cuyos antecedentes obran en el expediente Nº 4061-2078552/2025, según el sig",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409075",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409075",
+     "sha256": "f659fe161c04270f159744fdaadccd208c2dd527419c4faea028884ce8d93015"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12758-2026",
+   "short": "Ordenanza 12758/2026",
+   "title": "Ordenanza 12758/2026: Autorícese al Departamento Ejecutivo a aceptar la donación efectuada por la Sra. Violeta Alejandra Schilardi DNI Nº 20.392.170 con destino a la Dirección del Coliseo Podestá, cuyos antecedentes obran en el Expte. Nº 4061",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409076",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409076",
+     "sha256": "5d6a8c5fee441cf707170cd71fd0160b2c4fbc569c7d8b2f73e03ae3c1dd7ed5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12759-2026",
+   "short": "Ordenanza 12759/2026",
+   "title": "Ordenanza 12759/2026: Autorícese al Departamento Ejecutivo a aceptar la donación efectuada por la Sra. Gisela Gambetta con destino a la Dirección del Coliseo Podestá, cuyos antecedentes obran en el Expte. Nº 4061-2078541/2025 de acuerdo con e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409077",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409077",
+     "sha256": "948a099bb344aa460b7e3f3d14cc9480790964c4bb6ccac22c873a1b5ecb5005"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12760-2026",
+   "short": "Ordenanza 12760/2026",
+   "title": "Ordenanza 12760/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por Renone Laura Soledad con destino a la Dirección del Coliseo Podestá, cuyos antecedentes obran en el expte Nº 4061-2078715/2025 de acuerdo con el si",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409078",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409078",
+     "sha256": "c5f9372ae39117c097c195a7c72949eb2bd392569ca24304bb75a6dfea2cb0b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12761-2026",
+   "short": "Ordenanza 12761/2026",
+   "title": "Ordenanza 12761/2026: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por la Sra. Gisela Elena Presa DNI Nº 28.483.797 con destino a la Dirección del Coliseo Podestá, cuyos antecedentes obran en el Expte. Nº 4061-2078523/",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409079",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409079",
+     "sha256": "d4f56d79e1926eae3cd07c85d19d8574f047b476249b38e4e1ad2e84b658b558"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12762-2026",
+   "short": "Ordenanza 12762/2026",
+   "title": "Ordenanza 12762/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por Sabrina Eliana Jiménez con destino a la Dirección del Coliseo Podestá, cuyos antecedentes obran en el expte Nº 4061-2078560/2025 de acuerdo con el ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409080",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409080",
+     "sha256": "d97e0ba31d6dfaab5f5a2233fe811dc1efb83f588a32efc1a5619e268c1fc0e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12763-2026",
+   "short": "Ordenanza 12763/2026",
+   "title": "Ordenanza 12763/2026: Autorícese al Departamento Ejecutivo a aceptar la donación efectuada por la Sra. María Florencia Dlaz con destino a la Dirección del Coliseo Podestá, cuyos antecedentes obran en el expte Nº 4061-2078591/2025 de acuerdo c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409081",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409081",
+     "sha256": "362684cb0a87d82f3cbad9e93412217b2289fcd641ed31853c325609dcb9ecc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12764-2026",
+   "short": "Ordenanza 12764/2026",
+   "title": "Ordenanza 12764/2026: Autorícese al Departamento Ejecutivo a realizar una transacción extrajudicial con la Sra. HUERGO SOFIA DNI Nº 36.617.920, por la suma total y única de PESOS CUATROCIENTOS MIL ($400.000), en concepto de indemnización por ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409082",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409082",
+     "sha256": "850f1d2533a83f5e61fdfd3f4cdee4d0536de9569a5e3f2457949186f05cfa94"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12765-2026",
+   "short": "Ordenanza 12765/2026",
+   "title": "Ordenanza 12765/2026: Ratificase el Convenio que tramita por expediente 4061-2093251/2025, oportunamente suscripto por el Departamento Ejecutivo con la Asociación Civil Siluva, a través del cual se acuerda la colaboración con las actividades ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409083",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409083",
+     "sha256": "2560aed11f98500eb3f7570a4f0d5dab1becf45b1a4f985ed3dd1d60001390b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12766-2026",
+   "short": "Ordenanza 12766/2026",
+   "title": "Ordenanza 12766/2026: Ratificase el Convenio que tramita por expediente 4061-2099602/2025, oportunamente suscripto por el Departamento Ejecutivo con el Centro de Administraciones Tributarias Subnacionales (CEATS), a través del cual se adhiere",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409084",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2409084",
+     "sha256": "473b158876be60260333b0b36466d5b451e7a14bd6cba6a030eb645c4139a45e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12767-2026",
+   "short": "Ordenanza 12767/2026",
+   "title": "Ordenanza 12767/2026: Desaféctese del dominio público municipal al excedente fiscal (Artículos 9º y 11º inciso 2, del Decreto Ley 9533/80), al bien identificado catastralmente como: Circunscripción I, Sección K, Manzana 767, Parcela 15b, Part",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2414168",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2414168",
+     "sha256": "ff9a35ed19cf3791af9a76734d1f7e56d12c0760833d4ee39d08ae6e9aed986c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12768-2026",
+   "short": "Ordenanza 12768/2026",
+   "title": "Ordenanza 12768/2026: Otórgase un espacio reservado para el estacionamiento, sin cargo, a la Sra. Vanoni Verónica, DNI 22.158.452, madre de Tomás Gerónimo lbarguren Vanoni, DNI 50.609.959, domiciliado en Avenida 31 Nº 1970, entre Avenida 72 y",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2414174",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2414174",
+     "sha256": "bb1b403ea719db1b118369ad5da5bb6e33210b51a15eeea8ffc109e19f7b8f2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12769-2026",
+   "short": "Ordenanza 12769/2026",
+   "title": "Ordenanza 12769/2026: Otórgase un espacio reservado destinado exclusivamente al Ascenso y Descenso de personas, con cargo, al Santuario Nuestra Señora de la Medalla Milagrosa, ubicado en calle 75 Nº 582 entre calles 6 y 7, en una extensión de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2414180",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2414180",
+     "sha256": "2690bc32b16f60fa1b963f3ddffa9aeb5606f91db33a2c2841010b39a7859785"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12770-2026",
+   "short": "Ordenanza 12770/2026",
+   "title": "Ordenanza 12770/2026: Otórgase un espacio reservado para estacionamiento, sin cargo, al Sr. Peña Marcelo Enrique Ventura, DNI Nº 18.212.218, en calle 39 Nº 288 1/2, entre calles 1 y 115, una extensión de seis (6) metros, en correspondencia co",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2414191",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2414191",
+     "sha256": "e6c2e119ece17402f94073fade9cddb96fc5e809c06d58d2ca3dccefe97b5f24"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12771-2026",
+   "short": "Ordenanza 12771/2026",
+   "title": "Ordenanza 12771/2026: Modificase el artículo 1º de la Ordenanza Nº 4865/81 , en los apartados que se indican a continuación:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2414197",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15187/contents/2414197",
+     "sha256": "c523c1a6b3c7adc94766a071df48f9b64226e4e1e7d4be47f5b410edf412b4e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12733-2026",
+   "short": "Ordenanza 12733/2026",
+   "title": "Ordenanza 12733/2026: Ratifícase el Convenio que tramita por expediente 4061-2066027/25, oportunamente suscripto por el Departamento Ejecutivo con el Centro Social Cultural Deportivo \"Aconcagua\" y Biblioteca Popular \"Juan Vucetich\", a través ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400305",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400305",
+     "sha256": "509ee16e69437e1543e5f24a78b3f982a230cc9cb70356617fbe0591bcf8474f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12734-2026",
+   "short": "Ordenanza 12734/2026",
+   "title": "Ordenanza 12734/2026: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por la artista Alicia Sottile, con destino al Museo Municipal de Arte (MUMART), dependiente de la Secretaría de Cultura. Las actuaciones administrativa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400316",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400316",
+     "sha256": "bb8c1cec9a3582f20ff606a3afe1e82cf01469fd90249a4243146287c2e70dcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12735-2026",
+   "short": "Ordenanza 12735/2026",
+   "title": "Ordenanza 12735/2026: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por la Sra. María Celia Grassi DNI 6.533.848 de una obra de arte cuya autoría pertenece al Sr. Raúl Osvaldo Moneta, con destino al Museo Municipal de A",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400322",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400322",
+     "sha256": "f0878dacb5d7fefed2d05352568c76bcd62d5a73c1adba0ec694772bc1c9ee54"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12736-2026",
+   "short": "Ordenanza 12736/2026",
+   "title": "Ordenanza 12736/2026: Otórgase un espacio reservado destinado exclusivamente al ascenso y descenso de personas, sin cargo, a la sede de ANSES, sito en calle 9 Nº 1279 entre la Diagonal 73 y calle 59, en una extensión de 8 metros en correspond",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400296",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400296",
+     "sha256": "1e8907f4d5903e7decf5347c77494095f0d28a316f518d008cbaeefd6a831640"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12737-2026",
+   "short": "Ordenanza 12737/2026",
+   "title": "Ordenanza 12737/2026: Otórgase un espacio reservado destinado exclusivamente al Ascenso y Descenso de personas, con cargo, al Centro de Diagnóstico Mon, con Certificado de Habilitación Nº 34.200, ubicado en avenida 7 Nº 1486 e/ 62 y 63, en un",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400338",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400338",
+     "sha256": "c85b425f605a10e30d71bf153ada2dae077e647b4a263b8e8c9ab6456ffb95c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12738-2026",
+   "short": "Ordenanza 12738/2026",
+   "title": "Ordenanza 12738/2026: Otórgase un espacio reservado destinado exclusivamente al Ascenso y Descenso de personas, sin cargo, al Jardín de Infantes \"Meridiano V\", CUIT 30-69133435 ubicado en calle 67 Nº 1080 entre las calles 16 y 17, en una exte",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400352",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400352",
+     "sha256": "3f965dd26d74e0af62b4e891af8b0ec4ca4be39014cfa0c8f4e0f3526177928b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12739-2026",
+   "short": "Ordenanza 12739/2026",
+   "title": "Ordenanza 12739/2026: Otórgase un espacio reservado para el estacionamiento, sin cargo, al Sr. Sagasti Vicente Alfredo, DNI Nº 5.497.11, en Avenida 53 Nº 754 esquina 10, en una extensión de seis (6) metros, en correspondencia con el frente de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400365",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400365",
+     "sha256": "259288f48875f8c2a0915883ded045c3f9ef1c0b2743b14353302c2d9a68e102"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12740-2026",
+   "short": "Ordenanza 12740/2026",
+   "title": "Ordenanza 12740/2026: Modifíquese los Artículos 1º y 2º de la Ordenanza 12.019/20, los que quedaran redactados de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400375",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400375",
+     "sha256": "00686186ce2cf879f3ce4a822b2d9b2d4ca3ed3d512410c8276a96b396ace91d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12741-2026",
+   "short": "Ordenanza 12741/2026",
+   "title": "Ordenanza 12741/2026: Otórgase un espacio reservado, sin cargo, destinado a tareas de carga y descarga de Transporte de Caudales y Clearing Bancario, a la Sucursal Banco Nación, sita en calle 523 esq. 7. El espacio reservado se implementará e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400387",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15068/contents/2400387",
+     "sha256": "7352edd0af2d25f67fed57d6ca37ef3d767d05e18dceed5675130e45336f7ab7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12720-2026",
+   "short": "Ordenanza 12720/2026",
+   "title": "Ordenanza 12720/2026: Otórgase un espacio reservado de estacionamiento, sin cargo, al Sr. Ovejero Osear Matias, DNI Nº 30.268.988, en calle 42 Nº 924 entre las calles 13 y 14, en una extensión de seis (6) metros, en correspondencia con el fre",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390325",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390325",
+     "sha256": "d5723ebcaef96c1e0072e23eed455cd739c51a7724821672258e89e459c08b28"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12721-2026",
+   "short": "Ordenanza 12721/2026",
+   "title": "Ordenanza 12721/2026: Otórgase un espacio reservado para el estacionamiento, sin cargo, al Sra. Ragusa María Agustina, DNI Nº 35.132.652, en ca lle 9 Nº 562 entre las calles 43 y 44, en una extensión de seis (6) metros, en correspondencia con",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390327",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390327",
+     "sha256": "921d5e3c80b9d44eee365320fcaca75c2c090aaed5036c98db916a01620f5d37"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12722-2026",
+   "short": "Ordenanza 12722/2026",
+   "title": "Ordenanza 12722/2026: Otórgase un espacio reservado para el estacionamiento, sin cargo, al Sr. Giacomelli Jorge Nestor, DNI Nº 8.464.723, en Avenida 51 Nº 429 entre las calles 3 y 4, en una extensión de seis (6) metros, en correspondencia con",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390328",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390328",
+     "sha256": "a2dca1599fc4e7336efea5f80ac30438e767877fdc0a1f19a09bf37127ca578b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12723-2026",
+   "short": "Ordenanza 12723/2026",
+   "title": "Ordenanza 12723/2026: Otórgase un espacio reservado, sin cargo, destinado a tareas de carga y descarga de Transporte de Caudales y Clearing Bancario, en correspondencia con el frente de los cajeros automáticos de la Sucursal Tribunales del Ba",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390331",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390331",
+     "sha256": "9b769a9b420f549e595a3839fc1c0c42a5d8f3d5b0191f0b08dec9a58e07f623"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12724-2026",
+   "short": "Ordenanza 12724/2026",
+   "title": "Ordenanza 12724/2026: Otórgase un espacio reservado para el estacionamiento, sin cargo, a la Sra. Giménez Lorena Andrea, DNI Nº 23.569.954, en calle 115 Bis Nº 229 entre las calles 529 y 530, en una extensión de seis (6) metros, en correspond",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390329",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390329",
+     "sha256": "ca1e1a616fe04dd68dab77d8fc01dcd609f01a533e25fb51491eaa17b00ab87f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12725-2026",
+   "short": "Ordenanza 12725/2026",
+   "title": "Ordenanza 12725/2026: Otórgase un espacio reservado destinado exclusivamente al ascenso y descenso de personas, con cargo, al Centro de Atención y Desarrollo Infantil \"Kínder House\", con Certificado de Habilitación Nº 39.111, sito en calle 15",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390333",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390333",
+     "sha256": "adfd1e4cace1ad003d9f47bd4c9eb4db6d9e2cdd569a93f5274c2fe15fec7389"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12726-2026",
+   "short": "Ordenanza 12726/2026",
+   "title": "Ordenanza 12726/2026: Otórgase un espacio reservado destinado exclusivamente al ascenso y descenso de personas, con cargo, al Centro de Rehabilitación \"Senda Comunidad\", con Certificado de Habilitación Nº 37.711, en calle 49 Nº 1028 entre 15 ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390330",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390330",
+     "sha256": "19a63e11aeb4479d114348891eb6ddfd318af1be62f4d14d2b366781e61b70c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12727-2026",
+   "short": "Ordenanza 12727/2026",
+   "title": "Ordenanza 12727/2026: Modificase el Articulo 1 de la Ordenanza Nº 12.112/21, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390335",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390335",
+     "sha256": "adba23fdf630f9a929618f97c6c4e5d0e20dbeaaba585ea41d3672df5badcffa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12728-2026",
+   "short": "Ordenanza 12728/2026",
+   "title": "Ordenanza 12728/2026: Autorízase al Departamento Ejecutivo a aceptar la donación de una ( 1) obra de arte efectuada por la artista Roxana Mayeyoshimoto, con destino al Museo Municipal de Arte (MUMART), dependiente de la Secretaría de Cultura.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390336",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390336",
+     "sha256": "d1071d15bb02bd4e6fe641577e52d89cbd72e2661f2e683ec719695c4402baac"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12729-2026",
+   "short": "Ordenanza 12729/2026",
+   "title": "Ordenanza 12729/2026: Autorízase al Departamento Ejecutivo a realizar una transacción extrajudicial con la Sra. DUMANSKI MIRTA AIDA DNI Nº 13.371.222, por la suma total y única de PESOS CINCUENTA MIL ($50.000), en concepto de indemnización po",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390339",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390339",
+     "sha256": "2416904c934c74065c87be35cc155f85d1731f29633718aa2370aaa792ab15e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12730-2026",
+   "short": "Ordenanza 12730/2026",
+   "title": "Ordenanza 12730/2026: Autorízase al Departamento Ejecutivo a realizar una transacción extrajudicial con la Sra. CASTILLO LAURA EMILIANA DNI 33.059.259, por la suma total y única de PESOS UN MILLON QUINIENTOS MIL ($1.500.000), en concepto de i",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390340",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390340",
+     "sha256": "2c87401b7232c4d58b5cc9f6acb6a4b543306db7f78e8f05ceab13319c451792"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12731-2026",
+   "short": "Ordenanza 12731/2026",
+   "title": "Ordenanza 12731/2026: Autorízase al Departamento Ejecutivo a aceptar la donación de una (1) obra de arte realizada por la artista Sol Vicente, con destino al Museo Municipal de Arte (MUMART), dependiente de la Secretaría de Cultura. Las actua",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390337",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390337",
+     "sha256": "08b18333c4ed2067b40a5547926b0acbec1e5dbd3805eadced2ca86f090fe9f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12732-2026",
+   "short": "Ordenanza 12732/2026",
+   "title": "Ordenanza 12732/2026: Desaféctese del dominio público municipal al excedente fiscal (Artículos 9º a 11º, incisos 2 y 19, del Decreto Ley 9533/80), al bien identificado catastralmente como: Circunscripción 1, Sección P, Manzana 1198, Parcela 1",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390341",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14955/contents/2390341",
+     "sha256": "8bf975fbcc28e5752ec069ac351590aa6e6c18c01090d27eb942a483d7e9ae35"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12718-2026",
+   "short": "Ordenanza 12718/2026",
+   "title": "Ordenanza 12718/2026: Modifíquense los Artículos 1º y 2º de la Ordenanza Nº 12.299, los que quedarán redactados de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14934/contents/2386743",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14934/contents/2386743",
+     "sha256": "207d39fd40694edf759aba7b3a46d8ff77012b39290c756be5bdd3070ddec154"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12719-2026",
+   "short": "Ordenanza 12719/2026",
+   "title": "Ordenanza 12719/2026: Autorizase al Departamento Ejecutivo a dar de baja del Patrimonio Municipal los bienes en calidad de rezagos que se detallan en el Anexo I que forma parte de la presente. Se acompaña el expediente Nº 4061 - 2126145/26.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14934/contents/2386747",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14934/contents/2386747",
+     "sha256": "a7ec00b47288c07ae8555b9e38cd218970f0289ab9754c1a3f37b4762ae08e7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12704-2026",
+   "short": "Ordenanza 12704/2026",
+   "title": "Ordenanza 12704/2026: El gasto que demande el cumplimiento establecido en el Artículo 1º será imputado a la partida de gastos correspondiente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2376814",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2376814",
+     "sha256": "e83c288dabdc27908302e7065dc99bb9a699099b184396dfdd64417a0fe643b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12705-2026",
+   "short": "Ordenanza 12705/2026",
+   "title": "Ordenanza 12705/2026: llumínese, de color rojo, la fachada del Palacio Municipal, el día 11 de abril del corriente año, en conmemoración al \"Día Mundial de Parkinson\".",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2376833",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2376833",
+     "sha256": "1f904e81072c56e8146ef5aa46aabea68e1b4e6bd723b5a8d7fb25259330ed66"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12706-2026",
+   "short": "Ordenanza 12706/2026",
+   "title": "Ordenanza 12706/2026: Autorizase a dar de baja del patrimonio de este Concejo Deliberante, los bienes en calidad de rezagos que se detallan en el Anexo l.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2376851",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2376851",
+     "sha256": "13faf5d791ab49d4064c90accb6aedcf52ec9ed34e0e1c4a6e2c0a9e8cff4cae"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12707-2026",
+   "short": "Ordenanza 12707/2026",
+   "title": "Ordenanza 12707/2026: Ratificase el Decreto Nº 815/2026 del Departamento Ejecutivo, de fecha 6 de abril de 2026, mediante el cual se acepta la renuncia al cargo de Presidente del Ente Municipal para la Actividad Turística (EMATUR) del Mg. Uri",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381344",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381344",
+     "sha256": "af2ccade530fb1447ba7b083b9ef512366b9f9adf3cd3ccb589f198405f17624"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12708-2026",
+   "short": "Ordenanza 12708/2026",
+   "title": "Ordenanza 12708/2026: Apruébese el Contrato de Comodato suscripto con fecha 10 de marzo de 2026, con el Banco de la Provincia de Buenos Aires, con destino exclusivo para la instalación y funcionamiento de una cabina modular para cajeros autom",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381345",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381345",
+     "sha256": "a4dfb4e6fbdef72db1175328a6326aa034c3d4474a07fc3ec5b5049505f990c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12709-2026",
+   "short": "Ordenanza 12709/2026",
+   "title": "Ordenanza 12709/2026: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con la Sra. Prevettoni Silvana Sabrina D.N.l. Nº 29.403.601 , por la suma total de PESOS UN MILLÓN ($1.000.000), en concepto de reparación por",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381349",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381349",
+     "sha256": "067126f8db6f6175db3f9524dcc082b37e70d70f8df00101e87759f0aa341c2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12710-2026",
+   "short": "Ordenanza 12710/2026",
+   "title": "Ordenanza 12710/2026: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. Daniele Nicolás Javier D.N.l. Nº 24.294.391, por la suma total de PESOS UN MILLON SEISCIENTOS NOVENTA Y CINCO MIL ($ 1.695.000), en",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381350",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381350",
+     "sha256": "91815c252646744e023ca4d6dd8aece00ecf972db1187b6efa51a766ea352e6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12711-2026",
+   "short": "Ordenanza 12711/2026",
+   "title": "Ordenanza 12711/2026: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con la Sra. Agis Adriana Nerea D.N.I. Nº 20.348.043, por la suma total de PESOS CUATROCIENTOS MIL ($400.000), en concepto de reparación por lo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381351",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381351",
+     "sha256": "c04d1627ec997e5988f848444cee897cd390e98060a2375b77672f5552cbea36"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12712-2026",
+   "short": "Ordenanza 12712/2026",
+   "title": "Ordenanza 12712/2026: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. Carril Marcelo Adrián D.N.l. Nº 25.952.250, por la suma total de PESOS CINCO MILLONES OCHOCIENTOS VEINTICINCO MIL ($5.825.000), en ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381352",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381352",
+     "sha256": "2716afa8234f00e13a01f4144f9f6941cd45f8616d433d443ef72ba001a11a34"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12713-2026",
+   "short": "Ordenanza 12713/2026",
+   "title": "Ordenanza 12713/2026: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. Lafitte Gastón D.N.I. Nº 27.408.721 , por la suma total de PESOS UN MILLON OCHOCIENTOS DOCE MIL OCHOCIENTOS ($1.812.800), en concep",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381353",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381353",
+     "sha256": "57c1b1101b01c8a1fd073227f2c67fdaa5832cdb59c9d57b6a3523006af98fc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12714-2026",
+   "short": "Ordenanza 12714/2026",
+   "title": "Ordenanza 12714/2026: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. NARDACCHIONE ANTONIO VICENTE D.N.I. Nº 25.952.962, por la suma total de PESOS UN MILLON OCHOCIENTOS VEINTE MIL ($1.820.000), en con",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381354",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381354",
+     "sha256": "226fd02398a446904d7a6123c60b12f61a1fd60c183b33ca78d89f431827466f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12715-2026",
+   "short": "Ordenanza 12715/2026",
+   "title": "Ordenanza 12715/2026: Autorizase al Departamento Ejecutivo, a dar de baja del Patrimonio Municipal a los semovientes detallados en el Anexo I que forma parte del presente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381355",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381355",
+     "sha256": "112f67266081544fc437c67959a983b1ab3f9b7d3c8e9ffda887e1d74c8ef00d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12716-2026",
+   "short": "Ordenanza 12716/2026",
+   "title": "Ordenanza 12716/2026: Ratificase el Convenio celebrado entre la Municipalidad de La Plata y la empresa \"Ticketera Argentina S.A.\", a través del cual las partes acuerdan los aspectos relacionados con la organización, comercialización y adminis",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381356",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381356",
+     "sha256": "d67402a0e2fa4c1ff79ab2c82193f7d85e0c9f569c591f0d98dc040d4457ba4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12717-2026",
+   "short": "Ordenanza 12717/2026",
+   "title": "Ordenanza 12717/2026: Aceptase el subsidio en especie otorgado por la Provincia de Buenos Aires consistente en una (1) pala cargadora marca CRYBSA, modelo C80, chasis Nº 222411, motor Nº C23305809A, que tramitó por expediente Nº 4061-2124659/",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381357",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14742/contents/2381357",
+     "sha256": "10650dc196d053a547ec7cefedf7ab0376ce566999cd4b69bb55fc5b23bcfbfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12697-2026",
+   "short": "Ordenanza 12697/2026",
+   "title": "Ordenanza 12697/2026: Autorízase al Departamento Ejecutivo a entregar en donación al Ministerio de Seguridad, Dirección de Bomberos de la Provincia de Buenos Aires, con destino al Cuartel de Bomberos de Villa Elisa, el bien que se detalla a c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367233",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367233",
+     "sha256": "13779bab4b4d3210c9c94e7fb6f994077928ec745e06fa2e41d12de1c1a70046"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12698-2026",
+   "short": "Ordenanza 12698/2026",
+   "title": "Ordenanza 12698/2026: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por la Fundación Banco Provincia y Provincia net, con destino a la Secretaría de Cultura, según el siguiente detalle:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367238",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367238",
+     "sha256": "2ccff1fec7fad4fb8cd44588d45f9c72ebe3216446f1474a5e3f8dd9a3d55b9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12699-2026",
+   "short": "Ordenanza 12699/2026",
+   "title": "Ordenanza 12699/2026: Autorízase al Departamento Ejecutivo a dar de baja del Patrimonio Municipal, los bienes en calidad de rezagos que se detallan en el Anexo l.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367245",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367245",
+     "sha256": "d7f4f7e0c27c18b3a02544b8792b975986a1a0f7bfaee86248d50ad35956cfaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12700-2026",
+   "short": "Ordenanza 12700/2026",
+   "title": "Ordenanza 12700/2026: Autorizase al Poder Ejecutivo a suscribir el Convenio de Colaboración y uso gratuito celebrado con el Banco de la Provincia de Buenos Aires, mediante el cual la Municipalidad de La Plata cede al Banco, el edificio identi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367247",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367247",
+     "sha256": "c058f518a432b99e72c67c097fde40a21567066595172f4bd93af39b435b6566"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12701-2026",
+   "short": "Ordenanza 12701/2026",
+   "title": "Ordenanza 12701/2026: Autorízase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. Fernández Santiago Ariel D.N.I Nº 37.492.315, por la suma total de PESOS UN MILLÓN SETECIENTOS CINCUENTA Y CINCO MIL CON 00/100 ($1",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367252",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367252",
+     "sha256": "d4ab91fbd45beb2365a05ea7c55f811456b113363df13ef7fe8029604aad39f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12702-2026",
+   "short": "Ordenanza 12702/2026",
+   "title": "Ordenanza 12702/2026: Autorízase al Departamento Ejecutivo a aceptar la donación con cargo efectuada por YPF S.A., con destino a la Secretaría de Cultura -República de los Niños-, según el siguiente detalle:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367256",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367256",
+     "sha256": "2b0c5256d581043cbee11157c6e19e2d78f3b6c61cf884c91f948b0ac99a7643"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12703-2026",
+   "short": "Ordenanza 12703/2026",
+   "title": "Ordenanza 12703/2026: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por la Cooperativa de trabajo OLMOS HOGAR con destino al Centro Comunal Olmos consistente en una Heladera marca NEBA A360.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367258",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14544/contents/2367258",
+     "sha256": "e81b4d6f5b359e649b480e9d3cb27b49a60b5a3c680f1348ee812ff79b9a2978"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12685-2025",
+   "short": "Ordenanza 12685/2025",
+   "title": "Ordenanza 12685/2025: Dispóngase la apertura de calles públicas en las siguientes arterias de la localidad de City Bell:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14077/contents/2325654",
+   "versions": [
+    {
+     "from": "2026-01-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14077/contents/2325654",
+     "sha256": "804c00d18d73f1b7f578d572c2e4cdca2fa1648699c0a69cdb41f66b7736b332"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12693-2025",
+   "short": "Ordenanza 12693/2025",
+   "title": "Ordenanza 12693/2025: Modificase el artículo 3° de la Ordenanza Nº 10.612, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14077/contents/2330761",
+   "versions": [
+    {
+     "from": "2026-01-11",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14077/contents/2330761",
+     "sha256": "feecde7cc4470e895f3c42343b3a334f7704fa730697cdda3b90b37d02ff6200"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12694-2025",
+   "short": "Ordenanza 12694/2025",
+   "title": "Ordenanza 12694/2025: Autorizase a la Administración del Mercado Regional La Plata a realizar la entrega, a cuenta del valor, para la adquisición de nuevas unidades, de los vehículos que se detallan a continuación:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14077/contents/2330733",
+   "versions": [
+    {
+     "from": "2026-01-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14077/contents/2330733",
+     "sha256": "8d05d49918629791cb67d221f02f47c23ce3fec1b1757354c9a5dbf358888c34"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12695-2025",
+   "short": "Ordenanza 12695/2025",
+   "title": "Ordenanza 12695/2025: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por el Ministerio de Ambiente de la Provincia de Buenos Aires, con destino a la Secretaría de Ambiente de la Municipalidad de La Plata, según el siguie",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14077/contents/2330736",
+   "versions": [
+    {
+     "from": "2026-01-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14077/contents/2330736",
+     "sha256": "114d80fef6c5476df3724e8f860f8fff4d6a9e58710b6f40673223dd472e7867"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12696-2025",
+   "short": "Ordenanza 12696/2025",
+   "title": "Ordenanza 12696/2025: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. GRISETTI EMANUEL D.N.I. Nº 36.241.516, por la suma total de PESOS QUINIENTOS SESENTA Y CINCO MIL CUATROCIENTOS CON 00/100 ($565.400",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14077/contents/2330727",
+   "versions": [
+    {
+     "from": "2026-01-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14077/contents/2330727",
+     "sha256": "58a540d3d2c31f2f4d97fce9e32a70895793b650f12b18ce61ffcbd404a03f1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12681-2025",
+   "short": "Ordenanza 12681/2025",
+   "title": "Ordenanza 12681/2025: La determinación, fiscalización, calificación de contribuyentes, percepción de todos los tributos, y la aplicación de sanciones por el incumplimiento de obligaciones fiscales formales o materiales que imponga la Municipa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319884",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 281,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319884",
+     "sha256": "b0699495536c3682950eefc55b6b7013e96ca13f3e5cbc53c740554b2b80ffd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12682-2026",
+   "short": "Ordenanza 12682/2026",
+   "title": "Ordenanza 12682/2026: Fíjense las alícuotas a aplicar sobre la base imponible de la Tasa por Servicios Urbanos Municipales, a los efectos de determinar el importe del tributo a liquidar anualmente el cual será distribuido en un máximo de doce",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319885",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 49,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319885",
+     "sha256": "2af960d9de6abe693ff83c1f283ecc48b997afacc7e3525032fa910f4fb6ce84"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12683-2025",
+   "short": "Ordenanza 12683/2025",
+   "title": "Ordenanza 12683/2025: La determinación, fiscalización, calificación de contribuyentes, percepción de todos los tributos, y a aplicación de sanciones por el incumplimiento de obligaciones fiscales formales o materiales que imponga en el ámbito",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319965",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319965",
+     "sha256": "e54dd42c260cde9f918853d2e82727f8623836aa379d054810114a5df4376b6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12684-2025",
+   "short": "Ordenanza 12684/2025",
+   "title": "Ordenanza 12684/2025: Apruébese el Régimen Tributario para la Administración del Ente Municipal de Turismo de la Municipalidad de La Plata (EMATUR) para el Ejercicio 2026, conforme al Anexo, que forma parte integrante de la presente, el cual ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319966",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319966",
+     "sha256": "44cd042a947249ac5bb04652ac31e35c1fea8695b862a1a870082eabe16b3c71"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12686-2025",
+   "short": "Ordenanza 12686/2025",
+   "title": "Ordenanza 12686/2025: Fijase el Presupuesto de Gastos para el Ejercicio 2026 en la suma de PESOS CUATROCIENTOS SESENTA Y DOS MIL DOSCIENTOS NOVENTA MILLONES CUATROCIENTOS SETENTA Y UN MIL NOVECIENTOS CATORCE CON 65/100 ($ 462.290.471.914,65),",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319862",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 26,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319862",
+     "sha256": "a70fdc42619d59660dfc3e5f227c34b7829fab5d184a09b531f12542d964b45d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12687-2025",
+   "short": "Ordenanza 12687/2025",
+   "title": "Ordenanza 12687/2025: Creación y Naturaleza Jurídica.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319968",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 17,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319968",
+     "sha256": "6b2c388769fae78acbf7c1750109d06b62e62dcc78a32a3368dc921da0ceddda"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12688-2025",
+   "short": "Ordenanza 12688/2025",
+   "title": "Ordenanza 12688/2025: Autorizase al Departamento Ejecutivo a aceptar la oferta formulada por la empresa DANAIDE S.A. en la Licitación Pública Nº 30/2025, que tiene por objeto la contratación del \"Servicio Integral de Monitoreo, mediante recol",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319969",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319969",
+     "sha256": "1604197b9005510002f96faa05f4174b9a288c1e5f48055cd8aaf770b50bb377"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12689-2025",
+   "short": "Ordenanza 12689/2025",
+   "title": "Ordenanza 12689/2025: Modificase el Artículo 6º de la Ordenanza N°7.388, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319970",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319970",
+     "sha256": "4ce07f78fd3b31d3693bc4bf81c1ff0a91600684e74de3d3049bf84694b6b039"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12690-2025",
+   "short": "Ordenanza 12690/2025",
+   "title": "Ordenanza 12690/2025: Autorizase al Departamento Ejecutivo a llamar a Licitación Pública para la adjudicación del “Servicio de Transporte Público Colectivo de Pasajeros por Automotor en el partido de La Plata” ajustándose en lo pertinente a l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319971",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319971",
+     "sha256": "f5331e6398d423450b616b7bc0e1409e741ab624e10becb1345ea65ca4afb049"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12691-2025",
+   "short": "Ordenanza 12691/2025",
+   "title": "Ordenanza 12691/2025: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. Bertoia Gabriel Alejandro D.N.I. Nº 30.987.611 , por la suma total de PESOS CIENTO CINCUENTA Y TRES MIL TRESCIENTOS CON 00/100 ($15",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319972",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319972",
+     "sha256": "3c6a0f49f835565ca27cb06a61a4a80769e03a4f36c856bd082adf6c3bb9afb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12692-2025",
+   "short": "Ordenanza 12692/2025",
+   "title": "Ordenanza 12692/2025: Alcance. La presente ordenanza es de orden público y aprueba el Plan de Ordenamiento Territorial del Partido de La Plata, en el marco de lo establecido por el artículo 75º del Decreto Ley Nº 8912/77.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319973",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 50,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14010/contents/2319973",
+     "sha256": "b35b83037054f88cd6900c2ef907a0bca988da6e48860dc64831bfcf648d95b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12671-2025",
+   "short": "Ordenanza 12671/2025",
+   "title": "Ordenanza 12671/2025: Otórgase un espacio reservado para el Ascenso y Descenso de personas, sin cargo, al Centro Integral de Niñez y Adolescencia, ubicado en calle 10 N°377 entre 39 y 40, todos los días, las 24 hs, en toda la extensión corres",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315799",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315799",
+     "sha256": "c0515d28f52f54a2a9ad7eeaee13e90276806a1af971cb093119a6eb50a51834"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12672-2025",
+   "short": "Ordenanza 12672/2025",
+   "title": "Ordenanza 12672/2025: Deróguese la Ordenanza Nº 12028, Expte 69.646, sancionada el 16 de diciembre de 2020, que regula la habilitación y fiscalización de los inmuebles sujetos a contratos de locación temporaria.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315801",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315801",
+     "sha256": "606252eba7e4c6ec1b94f414de2b1e8a8685b364cdffca1c78b9f113742f6903"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12673-2025",
+   "short": "Ordenanza 12673/2025",
+   "title": "Ordenanza 12673/2025: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por la Secretaría General de la provincia de Buenos Aires y con destino a la Dirección de Vehículos Oficiales de la Municipalidad de La Plata, según el",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315804",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315804",
+     "sha256": "39d9727d74a4005991efc4fb7371c4a83280002c8bb6d5630792ef82f195b010"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12674-2025",
+   "short": "Ordenanza 12674/2025",
+   "title": "Ordenanza 12674/2025: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con el Sr. Miceli Eduardo Oscar D.N.l. 8.345.982, por la suma total de PESOS CIENTO OCHENTA Y SIETE MIL TRESCIENTOS CON 00/100 ($187.300,00), ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315805",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315805",
+     "sha256": "bf52769540ef3857492c44150b2e07acdc560f20b65297fe5bb2c56deb6d960e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12675-2025",
+   "short": "Ordenanza 12675/2025",
+   "title": "Ordenanza 12675/2025: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con la Sra. Micaela Etchart D.N.I. Nº 36.118.806, por la suma total de PESOS QUINIENTOS MIL CON 00/100 ($500.000,00), en concepto de reparació",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315806",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315806",
+     "sha256": "679b7e7d511b56ef1daea65c5ef2218472b677613b2f239604331cfa9020b6fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12676-2025",
+   "short": "Ordenanza 12676/2025",
+   "title": "Ordenanza 12676/2025: Autorizase al Departamento Ejecutivo a realizar una transacción extrajudicial con el sr. José Roberto Gauna, DNI 11.209.923, por la suma total de PESOS TRES MILLONES NOVENTA MIL ($ 3.090.000,00. -), en concepto de repara",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315807",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2315807",
+     "sha256": "4dd04196a9a4435eb2d5df129258527470f66fd03da3236b1f66bc78c6859fcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12677-2025",
+   "short": "Ordenanza 12677/2025",
+   "title": "Ordenanza 12677/2025: Prorrógase, por el término de doce (12) meses, a partir del 1 de enero del 2026, la renovación de las unidades afectadas al servicio de remises, cuyo modelo corresponda a los años 2013 y 2014.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2318314",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2318314",
+     "sha256": "01f4308690a8569b1eb4a1c022e0fa0e0c60f86675b2175753ce457c5258de93"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12678-2025",
+   "short": "Ordenanza 12678/2025",
+   "title": "Ordenanza 12678/2025: Prorrógase, por el término de doce (12) meses a partir del 1 de enero del 2026, la renovación de las unidades afectadas al servicio de taxis, cuyo modelo corresponda al año 2012.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2318418",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2318418",
+     "sha256": "55e6a8c700e9f6c596d71902f66ede7967d83108e9266c2b32c9753159e75b80"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12679-2025",
+   "short": "Ordenanza 12679/2025",
+   "title": "Ordenanza 12679/2025: Créase el programa conciencia de riesgo vial denominado \"En La Plata TU VIDA VALE\", que tendrá como objetivos principales:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2318425",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2318425",
+     "sha256": "5edb3103f2491476f6a5eb1f88d9696bed66787c88e84380e4d0bd9b35647381"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12680-2025",
+   "short": "Ordenanza 12680/2025",
+   "title": "Ordenanza 12680/2025: Apruébese el régimen de fomento de la actividad económica a través de la cual se promueve la inversión por parte de las empresas en paneles solares u otros mecanismos que fomenten la generación de energías renovables.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2318431",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13879/contents/2318431",
+     "sha256": "57c28d76612220300f7ca39a2109e0fdc920ba4725e830971afc054732c35e3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12664-2025",
+   "short": "Ordenanza 12664/2025",
+   "title": "Ordenanza 12664/2025: Designase con el nombre \"José Ignacio Rucci\" al tramo de la calle 36 comprendido entre las calles 2 y 3 de la ciudad de La Plata, donde se encuentra la sede de la Confederación General del Trabajo (CGT).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2300055",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2300055",
+     "sha256": "f448575b4ab4da2088252fb90d5d9b5670a01cbffc50a314cc520016bb6e6734"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12665-2025",
+   "short": "Ordenanza 12665/2025",
+   "title": "Ordenanza 12665/2025: Declárase de interés social en los términos de la Ley Nº 10.830, la regularización dominial del barrio Puente de Fierro emplazado en los inmuebles de dominio de la Provincia de Buenos Aires designados catastralmente como",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2300056",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2300056",
+     "sha256": "28a268d9779ac59fce6359a1584e105534dcaf4f7eb97f5cd5916ebed1239848"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12666-2025",
+   "short": "Ordenanza 12666/2025",
+   "title": "Ordenanza 12666/2025: Autorízase al Departamento Ejecutivo a dar de baja del Patrimonio Municipal a los semovientes detallados en el Anexo I que forma parte de la presente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2300057",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2300057",
+     "sha256": "3f4546f819607f6a91bc5ce6ea6b33fccbbc44b3218894d77073197aa143fe0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12667-2025",
+   "short": "Ordenanza 12667/2025",
+   "title": "Ordenanza 12667/2025: Autorizase al Departamento Ejecutivo a otorgar la sesión provisoria de uso con carácter precario a Albatros Rugby Club, la calle S/N con sus respectivas ochavas y borde de la Manzana 19, Sección J, Circunscripción VI y d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2307007",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2307007",
+     "sha256": "461f6701d81b46e3de8596d9d5cd9d16af8f8fbe3ba8ffdcdebea41cfa9c9127"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12668-2025",
+   "short": "Ordenanza 12668/2025",
+   "title": "Ordenanza 12668/2025: Designase con el nombre de \"Padre Carlos Cajade\" a la plazoleta que se ubica en la intersección de las Avenidas 7 y 90.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2307002",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2307002",
+     "sha256": "a8aa5e952dc1ea78999a3c44b64e83ba5f12cb23e82a2c0281cdfb0c593f985d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12669-2025",
+   "short": "Ordenanza 12669/2025",
+   "title": "Ordenanza 12669/2025: Autorizase al Ente Municipal La Plata (Ordenanza 8.409 a la venta en subasta pública de cuatro inmuebles que a continuación se detallan:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2307005",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2307005",
+     "sha256": "d4cdebc323b4450cba178bf81db19af2e880454f4df609b361878f1d7e26359f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12670-2025",
+   "short": "Ordenanza 12670/2025",
+   "title": "Ordenanza 12670/2025: Condónense las deudas, que a la fecha, mantiene Frigorífico Gorina S.A.I.C, CUIT Nº 30-53786915-8, en concepto de Tasa por Inspección de Seguridad e Higiene (TISH), Tasa por Archivo de Guías de Ganado y Guías de Cueros, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2307008",
+   "versions": [
+    {
+     "from": "2025-11-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13668/contents/2307008",
+     "sha256": "36005a32ec7a597e196ee258ff61c42d25fdcf6abc7c5d3dffbd84db4551a255"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12654-2025",
+   "short": "Ordenanza 12654/2025",
+   "title": "Ordenanza 12654/2025: Otorgase a la Escuela de Educación Secundaria Nº 31, ubicada en calle 46 Nº 386, entre calle 2 y Diagonal 80, un espacio reservado para el Ascenso y Descenso de personas, sin cargo, de lunes a viernes, en el horario de 0",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2278450",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2278450",
+     "sha256": "9fbe0aa39cc5cdced3e6527756eabbe13a59ab2d23b00e67710b652312ab2e17"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12655-2025",
+   "short": "Ordenanza 12655/2025",
+   "title": "Ordenanza 12655/2025: Autorícese a dar de baja del patrimonio de este Concejo Deliberante los bienes en calidad de rezagos que se detallan en el Anexo l.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2282838",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2282838",
+     "sha256": "b5ea87c08d7695fad6fa1a442248de07a480344ad2969f441d4bb57f7000a356"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12656-2025",
+   "short": "Ordenanza 12656/2025",
+   "title": "Ordenanza 12656/2025: lnstitúyase la semana de septiembre que comprende el día 21, como la \"Semana de la Primavera del Bachillerato Francisco A. De Santo\".",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2287415",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2287415",
+     "sha256": "583c8894af0b25b6bee1b3cc0b242048175cd3be415daca921a83a2798bf8377"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12657-2025",
+   "short": "Ordenanza 12657/2025",
+   "title": "Ordenanza 12657/2025: Establécese la capacitación obligatoria en Lengua de Señas Argentina (LSA) y en temáticas de inclusión y accesibilidad comunicacional para el personal que se desempeñe en el ámbito del Honorable Concejo Deliberante.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2287418",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2287418",
+     "sha256": "c68c339bc267624da510e24f9c3d2378564e0ecd1aa4c7ac49bfecda24690269"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12658-2025",
+   "short": "Ordenanza 12658/2025",
+   "title": "Ordenanza 12658/2025: Apruébese el Convenio oportunamente suscripto con la Asociación Civil Fundación Argentina de Barberos Solidarios (F.A.B.S), a través del cual se acuerda la colaboración mutua para la implementación de distintas actividad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290560",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290560",
+     "sha256": "ebfb714f62405f1ccdefa2eaa6b1585a4c31bb25bf425720b37c1aa87b92a5fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12659-2025",
+   "short": "Ordenanza 12659/2025",
+   "title": "Ordenanza 12659/2025: Ratificase el Convenio oportunamente suscripto con la ONG CEPA-FILIAL La Plata (Cuerpo de Evacuación y Primeros Auxilios), a través del cual se acuerda crear vínculos de colaboración institucional con el fin de llevar a ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290564",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290564",
+     "sha256": "f7c3402d072739185123527297b2955fab6cb53b979418b64d085fd596b2bac7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12660-2025",
+   "short": "Ordenanza 12660/2025",
+   "title": "Ordenanza 12660/2025: Ratificase el Acuerdo Específico entre el Ente Municipal para la Actividad Turística de la Municipalidad de La Plata (EMATUR) y la Facultad de Ciencias Económicas de la Universidad Nacional de La Plata, que tramita por e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290567",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290567",
+     "sha256": "d6665df02a26a249e30ccb4694975406c6c459bb436df0073219ca7dad9ad2ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12661-2025",
+   "short": "Ordenanza 12661/2025",
+   "title": "Ordenanza 12661/2025: Estableciendo que, durante el año 2026, toda documentación oficial expedida por reparticiones municipales deberá incluir en el margen superior derecho la leyenda: \" A 50 años de La Noche de los Lápices, recordamos a los ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290569",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290569",
+     "sha256": "83f4ccf5741fef182fccda3575e0ccc6755aca233bf8c67d481a881c860380ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12662-2025",
+   "short": "Ordenanza 12662/2025",
+   "title": "Ordenanza 12662/2025: Autorizase al Departamento Ejecutivo a emplazar en la Plaza España de nuestra Ciudad, un mojón oficial del Camino de Santiago.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290570",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290570",
+     "sha256": "ca340156acfbc6de85d5f64dd3550b846f4d63ff0f0baf9a4d1e73aac0b8531e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12663-2025",
+   "short": "Ordenanza 12663/2025",
+   "title": "Ordenanza 12663/2025: Creación de la Mesa Local lntersectorial. Créase la Mesa Local lntersectorial para la Prevención, Abordaje y Salida de las Violencias por Razones de Género en el ámbito de la Municipalidad de La Plata.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290571",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 16,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13464/contents/2290571",
+     "sha256": "99e751b31af23f8f1a7c9d134c9c852e18618ccf2569ecd26188ea662e49d72d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12647-2025",
+   "short": "Ordenanza 12647/2025",
+   "title": "Ordenanza 12647/2025: Créase el Domicilio Electrónico Municipal D.E.M. y facúltese al Departamento Ejecutivo a implementar la constitución de un domicilio electrónico en los procedimientos administrativos que determine. La reglamentación podr",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274644",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274644",
+     "sha256": "8bd8fe53125784e66de3873b48c25ccf093a214df6b8f33232b57456ac1cf855"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12648-2025",
+   "short": "Ordenanza 12648/2025",
+   "title": "Ordenanza 12648/2025: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por la artista Lidia Kalibatas, de una obra de arte, con destino al Museo Municipal de Arte, MUMART, perteneciente a la Secretaría de Cultura y, cuyos ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274647",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274647",
+     "sha256": "81a0b6458da6adff55f8f02da6d4132ea519ce1ff9c3383bd4cea22bbfa4c833"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12649-2025",
+   "short": "Ordenanza 12649/2025",
+   "title": "Ordenanza 12649/2025: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por la artista Laura Beatriz De Larena, de una obra de arte, con destino al Museo Municipal de Arte, MUMART, perteneciente a la Secretaría de Cultura y",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274649",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274649",
+     "sha256": "a617555f9b402cf352bd313f3d575d93f68e8fcca9e5fed9298e59e04d2f98b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12650-2025",
+   "short": "Ordenanza 12650/2025",
+   "title": "Ordenanza 12650/2025: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por la artista Silvia Ester Bianconi, de una obra de arte, con destino al Museo Municipal de Arte, MUMART, perteneciente a la Secretaría de Cultura y, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274650",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274650",
+     "sha256": "b1b12b57b2bbdbf82022efff62bb12d66b1b04f070d269a10a681daeef3994ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12651-2025",
+   "short": "Ordenanza 12651/2025",
+   "title": "Ordenanza 12651/2025: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por el artista Gabriel Cesar Grioni, de una obra de arte, con destino al Museo Municipal de Arte, MUMART, perteneciente a la Secretaría de Cultura y, c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274651",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274651",
+     "sha256": "e213126ab93c51bcb6fd1fe762eb8646d1aec418a8de77fb7b01080061e572ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12652-2025",
+   "short": "Ordenanza 12652/2025",
+   "title": "Ordenanza 12652/2025: Autorízase al Departamento Ejecutivo a aceptar la donación efectuada por el Sr. Gustavo Francesconi, con destino a la Dirección de Cine, dependiente de la Secretaría de Cultura, cuyos antecedentes obran en las actuacione",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274652",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2274652",
+     "sha256": "efc8845adebf3a1f47571421093e0100103f940fbe70e361653a1a36b14eab79"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12653-2025",
+   "short": "Ordenanza 12653/2025",
+   "title": "Ordenanza 12653/2025: Dispóngase la creación de una APP (sistema informático para aplicaciones móviles y tabletas) de acceso gratuito para todos los vecinos de la ciudad de La Plata, con el objeto. de que puedan contar con información en tiem",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2275271",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13332/contents/2275271",
+     "sha256": "99b6c651b74d0cf854a2e94f9539c1d93dd310c649cd1ce62b15c39cc5faad4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12642-2025",
+   "short": "Ordenanza 12642/2025",
+   "title": "Ordenanza 12642/2025: Incorpórese el artículo 1 bis a la Ordenanza Nº 7.888, el que quedará redactado de la siguiente manera.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12994/contents/2250503",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12994/contents/2250503",
+     "sha256": "a8369393e801eca878384a9ce5f25e640662b53abce219a1817f69fcd089d3d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12643-2025",
+   "short": "Ordenanza 12643/2025",
+   "title": "Ordenanza 12643/2025: Créase el programa \"Embajador Turístico de la Ciudad de La Plata”, destinado a las personas, organizaciones, instituciones que hayan sido destacadas según la Ordenanza 10.734.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12994/contents/2250522",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 17,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12994/contents/2250522",
+     "sha256": "86f1f95e0ce2fbf9b7ea9072163844388469add8fab3c3756878f1bef76a829a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12644-2025",
+   "short": "Ordenanza 12644/2025",
+   "title": "Ordenanza 12644/2025: Autorizase al Departamento Ejecutivo a aceptar la donación efectuada por el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y con destino a la Dirección de Vehículos Oficiales de la Mun",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12994/contents/2251254",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12994/contents/2251254",
+     "sha256": "ae33a896bb1b0e46de564a986213fd7165364b27343cdf5529fa0fb932a1abee"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12645-2025",
+   "short": "Ordenanza 12645/2025",
+   "title": "Ordenanza 12645/2025: Ratifíquese el Acuerdo Complementario entre la Dirección General de Cultura y Educación de la Provincia de Buenos Aires y la Municipalidad de La Plata.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12994/contents/2251076",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12994/contents/2251076",
+     "sha256": "ac29f5e4442b50a848f8d5d5a1f7a6cd91f021f59f15e0a2b726fe48331eba69"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12646-2025",
+   "short": "Ordenanza 12646/2025",
+   "title": "Ordenanza 12646/2025: Autorícese al Departamento Ejecutivo a dar de baja del Patrimonio Municipal los vehículos livianos, pesados y maquinarias de propiedad municipal que se encuentran con su vida útil agotada, en estado de deterioro y en est",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12994/contents/2251087",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12994/contents/2251087",
+     "sha256": "c3a900529a8d936cdd938e19745bf3d0d8aacdfd7b8c22023db3538491e4ee30"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12641-2025",
+   "short": "Ordenanza 12641/2025",
+   "title": "Ordenanza 12641/2025: Otórguese un espacio reservado para el estacionamiento, sin cargo, destinado al Sr. Omar José Emilio Fernández, DNI M 4.163.798 y a la señora Carmen Aida Suarez, DNI F 1.945.995, titular del CUD Nº 4321625137, en la call",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12898/contents/2232352",
+   "versions": [
+    {
+     "from": "2025-06-22",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12898/contents/2232352",
+     "sha256": "2bcc251a6d7cfb778285e2aafc270602b32d602f526e87868fd1154f88faed94"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12639-2025",
+   "short": "Ordenanza 12639/2025",
+   "title": "Ordenanza 12639/2025: Designase con el nombre de \"Papa Francisco\", a la Avenida 520 de la Ciudad de La Plata.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12720/contents/2215032",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12720/contents/2215032",
+     "sha256": "2f1637ed956ebbdd37524ad60cfa85587ccc7e57383257c24ad2e8fe47d0695f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12640-2025",
+   "short": "Ordenanza 12640/2025",
+   "title": "Ordenanza 12640/2025: Convalidase el Convenio de Colaboración celebrado entre la Municipalidad de La Plata y el Ministerio de Seguridad de la Nación, con fecha 3 de abril de 2025, el que tiene por objeto la implementación del Programa Naciona",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12720/contents/2221957",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12720/contents/2221957",
+     "sha256": "3414d3c4fc41bcf609c21cd8281df4f8b273e5f702e8ae902d5522051ac042e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12638-2025",
+   "short": "Ordenanza 12638/2025",
+   "title": "Ordenanza 12638/2025: Plan de Ordenamiento Territorial. La presente Ordenanza aprueba la primera fase del Plan de Ordenamiento Territorial del Partido de La Plata, modificando lo dispuesto por la Ordenanza N° 10.703 y sus modificatorias, en e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12678/contents/2212409",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 89,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12678/contents/2212409",
+     "sha256": "743822243e481bbc49e247149bb322f89dc019afbf995891e7d2cac62f02689c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12633-2025",
+   "short": "Ordenanza 12633/2025",
+   "title": "Ordenanza 12633/2025: Otórguese un espacio reservado para el estacionamiento, sin cargo, a la Sra. María Marcela Ana Sanmartino - DNI 17.004.884, en la calle 63 N°338 entre 1 y 2, en una extensión de seis (6) metros en correspondencia con el ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12580/contents/2208956",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12580/contents/2208956",
+     "sha256": "595e39f78891763ad0dc16168e6e16589ddcc39c36f57041956f04f95c2f522a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12634-2025",
+   "short": "Ordenanza 12634/2025",
+   "title": "Ordenanza 12634/2025: Designase con el nombre de \"Recreo Padre Mujica\" al especio verde ubicado en la intersección del Boulevard 84 con la Diagonal 73.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12580/contents/2205737",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12580/contents/2205737",
+     "sha256": "74dd4be3907a756fe1e138f6dbd75723f9fb9bf56f0c31802eaed493099fc748"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12635-2025",
+   "short": "Ordenanza 12635/2025",
+   "title": "Ordenanza 12635/2025: Designase con el nombre de \"Rincón de la Memoria Víctor Basterra\", al espacio ubicado en la intersección de las calles 528 bis y 115, según croquis, que como Anexo I forma parte integrante de la presente, en cumplimiento",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12580/contents/2205739",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12580/contents/2205739",
+     "sha256": "be33df8d2a194669fa54952bfbe8e9e6dbf1c55f115972cd3b70df81c87d158b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12636-2025",
+   "short": "Ordenanza 12636/2025",
+   "title": "Ordenanza 12636/2025: lmpleméntase en la Municipalidad de La Plata la \"Matriz Única de Factores de Alto Riesgo en Casos de Violencias por Razones de Género\", aprobada por el Artículo 6 del Decreto Provincial Nº 1020/2021 e incorporada como An",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12580/contents/2205754",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12580/contents/2205754",
+     "sha256": "fe3084b595f620e92e49cd5f46c1a6b1499de543bcf171bcd18b5e65ec7b6a6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12637-2025",
+   "short": "Ordenanza 12637/2025",
+   "title": "Ordenanza 12637/2025: Declárese de utilidad pública y sujetos a expropiación, los inmuebles ubicados en el Partido de La Plata, Provincia de Buenos Aires, designados catastralmente como:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12580/contents/2205756",
+   "versions": [
+    {
+     "from": "2025-05-04",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12580/contents/2205756",
+     "sha256": "14dc9c8ac8ee759b6c0b4a78b788b275b780985ebeb939d278fc2327bd4ef05e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12632-2025",
+   "short": "Ordenanza 12632/2025",
+   "title": "Ordenanza 12632/2025: Declárese el año 2025, como el año de \"120° Aniversario de la Universidad Nacional de La Plata\"- En conmemoración del acuerdo firmado el 12 de agosto de 1905, entre los gobiernos de la Nación y la Provincia, representado",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12384/contents/2196382",
+   "versions": [
+    {
+     "from": "2025-04-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12384/contents/2196382",
+     "sha256": "16327f82acb93d83dd02dddb33821cd4e3e9f19ed11374b6c8eb9b2a87f41839"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12626-2024",
+   "short": "Ordenanza 12626/2024",
+   "title": "Ordenanza 12626/2024: ARTÍCULO 1°- DEFINICIÓN:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2153487",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2153487",
+     "sha256": "bc43f59e0fe7356c63da0d5126a64a974da12ec49f17126a4d916e39436cde55"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12627-2024",
+   "short": "Ordenanza 12627/2024",
+   "title": "Ordenanza 12627/2024: Créase el \"Área de Paisaje Protegido Parque Juan Vucetich\", la cual estará conformada por la manzana comprendida entre las calles 50, 54, 23 y 27, identificada Catastralmente como: Circunscripción I, Sección O, Manzana 1",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2153488",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2153488",
+     "sha256": "ad132e2d03e366e8288bff57ae1c9fd3d25b1b104829b29fecfbd195357e3a94"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12628-2024",
+   "short": "Ordenanza 12628/2024",
+   "title": "Ordenanza 12628/2024: Adherir a la Ley Nº 14.893 de la Provincia de Buenos Aires y su Decreto Reglamentario 121/20, referida a la \"Licencia para Mujeres Víctimas de Violencia\", destinada a todas las trabajadoras de la administración pública o",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2154207",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2154207",
+     "sha256": "7867ca6f255e5371cbdad22c81703177d2a756b92a23509a7f02a7a95471797c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12629-2024",
+   "short": "Ordenanza 12629/2024",
+   "title": "Ordenanza 12629/2024: Designase como plaza pública al espacio verde situado en la intersección de las calles 70 y 159 de la localidad de Los Hornos, Partida N° 055-411112, Nomenclatura Catastral: Circunscripción III, Sección C, Chacra 132, Ma",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2154208",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2154208",
+     "sha256": "bb2b0cda83f1f4490ccc1bbc44c3ed6a01086efec19eff13791edae05845de76"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12630-2024",
+   "short": "Ordenanza 12630/2024",
+   "title": "Ordenanza 12630/2024: Créase la \"Plaza Las Casitas\", en el espacio verde cuya denominación catastral es la siguiente: Circunscripción II, Quinta 265, Manzana 265 n, Parcela 1, Partida Nº 87011, Prepartida Nº N001, Matrícula Nº 48619, Plano de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2154209",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2154209",
+     "sha256": "eaacaf609066d39c547c42c91faffe7e09f7545b1099e3a68bcf5c0a3aac6fd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12631-2024",
+   "short": "Ordenanza 12631/2024",
+   "title": "Ordenanza 12631/2024: Ratifíquese el Convenio, suscripto el día 20 de diciembre de 2024, entre la Provincia de Buenos Aires y la Municipalidad de La Plata, mediante el cual se regulariza la totalidad de la deuda en concepto de \"Contribución d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2154210",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11936/contents/2154210",
+     "sha256": "1072f5700ef4b9cfcf73e670292797d601353292fe7ea7aa8c70105b8a5576ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12620-2024",
+   "short": "Ordenanza 12620/2024",
+   "title": "Ordenanza 12620/2024: Fíjase el Presupuesto de Gastos para el Ejercicio 2025 en la suma de PESOS TRESCIENTOS DOS MIL TRESCIENTOS CINCUENTA Y SEIS MILLONES CUATROCIENTOS SESENTA Y TRES MIL CIENTO CUARENTA Y OCHO CON 22/100 ($302.356.463.148,22",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2148498",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 26,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2148498",
+     "sha256": "4cd5460094f4f66f3691df2ff2592d49a96d97b916fd91390aa347a7e68bca49"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12621-2024",
+   "short": "Ordenanza 12621/2024",
+   "title": "Ordenanza 12621/2024: La determinación, fiscalización, calificación de contribuyentes, percepción de todos los tributos, y la aplicación de sanciones por el incumplimiento de obligaciones fiscales formales o materiales que imponga la Municipa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2150931",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 275,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2150931",
+     "sha256": "ef8efdd46e6608db17aaf6e53bf9c03ad84700458364f3d683fb45b56c20f926"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12622-2024",
+   "short": "Ordenanza 12622/2024",
+   "title": "Ordenanza 12622/2024: Fíjense las alícuotas a aplicar sobre la base imponible de la Tasa por Servicios Urbanos Municipales, a los efectos de determinar el importe del tributo a liquidar anualmente el cual será distribuido en seis (6) cuotas, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2150932",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 49,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2150932",
+     "sha256": "ebbdb52d93a5e3dfc47b31217ec6eb90d046d39f913f015a144e66f2a012b988"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12623-2024",
+   "short": "Ordenanza 12623/2024",
+   "title": "Ordenanza 12623/2024: La determinación, fiscalización, calificación de contribuyentes, percepción de todos los tributos, y a aplicación de sanciones por el incumplimiento de obligaciones fiscales formal es o materiales que imponga en el ámbit",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2151675",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2151675",
+     "sha256": "a926d0f214dd485ceac847e0cc1d71b70ab17aca4c1e6356d32c01d9e450a062"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12624-2024",
+   "short": "Ordenanza 12624/2024",
+   "title": "Ordenanza 12624/2024: Apruébese el Régimen Tributario para la Administración del Ente Municipal de Turismo de la Municipalidad de La Plata (EMATUR) para el Ejercicio 2025, conforme al Anexo, que forma parte integrante de la presente, el cual ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2151676",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2151676",
+     "sha256": "65d0d00a1aa49a69f44f3e5afd19f2e668cd107971034ef757444a4cea7e0a4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12625-2024",
+   "short": "Ordenanza 12625/2024",
+   "title": "Ordenanza 12625/2024: Modifíquense los Artículos 1° y 2° de la Ordenanza N° 12.299, los que quedarán redactados de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2151677",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11872/contents/2151677",
+     "sha256": "8d05c1937a01484d967860d209d5532306c169c37fa0e8afcc104732d6cfe542"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12605-2024",
+   "short": "Ordenanza 12605/2024",
+   "title": "Ordenanza 12605/2024: Créase el Museo y Archivo Histórico de Tolosa.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2141261",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2141261",
+     "sha256": "612c272c3d1e1e68218e48a9d593fbc295e7c05c3fd91fe451cf1fa5f8568c49"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12606-2024",
+   "short": "Ordenanza 12606/2024",
+   "title": "Ordenanza 12606/2024: lncorpórase al Artículo 1° de la Ordenanza Nº 10.734 la siguiente distinción: \"Patrimonio Cultural Viviente\".",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2139882",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2139882",
+     "sha256": "e51a5c6f7bbdebea9d700349c3c428b5ab857a48072df3417feb369d7c5584f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12607-2024",
+   "short": "Ordenanza 12607/2024",
+   "title": "Ordenanza 12607/2024: Créase el \"Programa Leña Social\", cuya finalidad será proveer de forma gratuita restos de poda, troncos y ramas de grosor adecuado, a los Centros Comunitarios con atención alimentaria y como así también a las organizacio",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145058",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145058",
+     "sha256": "da07da0ba49616b3a311a66945078f2f54cbe4eb0d8822062f670305e692c4cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12608-2024",
+   "short": "Ordenanza 12608/2024",
+   "title": "Ordenanza 12608/2024: Autorizase al Departamento Ejecutivo a colocar en los Juegos de la Plaza Islas Malvinas, que simula el ARA General Belgrano, una placa con referencias históricas para niñas, niños y adultos referidas a:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2139890",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2139890",
+     "sha256": "8c643254614e85df22bff05eaf61d2b7a3b30fe71634e7592f993d5d4032b359"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12609-2024",
+   "short": "Ordenanza 12609/2024",
+   "title": "Ordenanza 12609/2024: Otórguese un espacio de Ascenso y Descenso de personas, con cargo, a la Clínica Instituto Médico de la Ribera S.A. sito en calle 54 Nº 372 entre las calles 2 y 3, en una extensión de ocho (8) metros en correspondencia co",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145100",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145100",
+     "sha256": "f8ec66cdc47a2c09eaedb91556b8677b4024724d197b93c21e5ffea6c54b1887"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12610-2024",
+   "short": "Ordenanza 12610/2024",
+   "title": "Ordenanza 12610/2024: Otórguese un espacio destinado para el estacionamiento, sin cargo, al Sr. Héctor Alfredo Sáez Peralta, DNI 11.295.993, abuelo de Consuelo Eirás Suárez, DNI 52.725.076, titular del CUD Nº 9543171276, en avenida 60 Nº 1869",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145098",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145098",
+     "sha256": "4b2338c000c8cf352a66d2252320454922dacefb3bd9d3c75effdf9c194c59e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12611-2024",
+   "short": "Ordenanza 12611/2024",
+   "title": "Ordenanza 12611/2024: Otórguese un espacio de Ascenso y Descenso de personas, con cargo, a la Institución Antigua Casona, sito en calle 2 N°425 entre las calles 40 y 41, en una extensión de siete (7) metros en correspondencia con el frente de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145101",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145101",
+     "sha256": "22b9bc035bd2a824e4e7ae588ab1e264bc23e814e848e21f8a0292b4da93c473"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12612-2024",
+   "short": "Ordenanza 12612/2024",
+   "title": "Ordenanza 12612/2024: Otórguese un espacio reservado para el estacionamiento, sin cargo, al Sr. Matías Nahuel Aalay, DNI 36.188.282, padre de Renzo Genaro Aalay, DNI 56.872.081, titular del CUD No 8047026617, en la calle 134 Nº 2163 entre 76 ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145099",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145099",
+     "sha256": "dea91ec7164dd09d6791fb12fb427a0954f0447d811506c370f8eb711d502535"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12613-2024",
+   "short": "Ordenanza 12613/2024",
+   "title": "Ordenanza 12613/2024: Otórguese un espacio destinado al Ascenso y Descenso de personas, con cargo, al Colegio CENIT, ubicado en calle 508 entre las calles 26 y 27, en una extensión de diez (10) metros en correspondencia con el frente del esta",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145097",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145097",
+     "sha256": "41914f89301bea4c3c9a31ce739699a3351fd0a9365ba009348999ad4b453ac1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12614-2024",
+   "short": "Ordenanza 12614/2024",
+   "title": "Ordenanza 12614/2024: Otórguese un espacio destinado al Ascenso y Descenso de personas, con cargo, al Colegio CENIT, ubicado en calle 508 entre las calles 26 y 27, en una extensión de diez (10) metros en correspondencia con el frente del esta",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145102",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145102",
+     "sha256": "bd1afabbcb24a00a4c25a5889b8fdbd59a27ae67494b3227ff2b86f5c52fc3d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12615-2024",
+   "short": "Ordenanza 12615/2024",
+   "title": "Ordenanza 12615/2024: Otórguese un espacio destinado exclusivamente al Ascenso y Descenso de personas discapacitadas, sin cargo, a la Escuela de Enseñanza Media Nº 2 \"La Legión\", ubicada en la plaza Juan Manuel de Rosas, en la intersección de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145103",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145103",
+     "sha256": "f4ef33969e719ee69ee758434df615f6d25cd71884e93ed6c611e972c1687d6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12616-2024",
+   "short": "Ordenanza 12616/2024",
+   "title": "Ordenanza 12616/2024: Prorrógase por el término de doce (12) meses, a partir del 1 de enero del 2025 al 31 de diciembre del 2025, la renovación de las unidades afectadas al servicio de remises, cuyo modelo sean del año 2012 y 2013.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145104",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145104",
+     "sha256": "629b4d019521b064370817e4d8109bd66b3afa0581c633876042812ef2aa4353"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12617-2024",
+   "short": "Ordenanza 12617/2024",
+   "title": "Ordenanza 12617/2024: Prorrógase por el término de doce (12) meses, a partir del 1 de enero del 2025 al 31 de diciembre del 2025, la renovación de las unidades afectadas al servicio de taxis, cuyo modelo sea del año 2011 .",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145105",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145105",
+     "sha256": "9dc7e98618b25a8c875b124e384df2fc70a03e74b1f78d33eba2d822243f557a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12618-2024",
+   "short": "Ordenanza 12618/2024",
+   "title": "Ordenanza 12618/2024: Prorrógase por el término de doce (12) meses, a partir del 1 de enero del 2025 al 31 de diciembre del 2025, los vehículos afectados al servicio de transporte escolar, cuyo modelo sea del año 2004.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145106",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145106",
+     "sha256": "016778ddf2c2d13e756ed83a5335bdec1e42761726b706bf832b2cfedebdd1b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12619-2024",
+   "short": "Ordenanza 12619/2024",
+   "title": "Ordenanza 12619/2024: Adhiérase a la Ley Nº 15491 de la Provincia de Buenos Aires, que garantiza el derecho a la salud y el acceso a una atención integral y de calidad a las personas menstruantes que padecen endometriosis.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145096",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11676/contents/2145096",
+     "sha256": "c09984decdc1ca8e783ff25564499ee8685aa67bfcd97766371f40f0b6202305"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12595-2024",
+   "short": "Ordenanza 12595/2024",
+   "title": "Ordenanza 12595/2024: Autorizase la colocación de 11 cuadros retratos y/o placa con la imposición de los siguientes nombres:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2123056",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2123056",
+     "sha256": "55f3215d6c7b58a058093d9e6f2941dc048bafa2e08f6eb1871471fabe3efade"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12597-2024",
+   "short": "Ordenanza 12597/2024",
+   "title": "Ordenanza 12597/2024: llumínese la fachada del Palacio Municipal día 15 de Octubre de cada año, en el marco del Día Mundial de Concientización sobre la Muerte Gestacional, Perinatal y Neonatal; se ilumine el Palacio Municipal con los colores ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2125243",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2125243",
+     "sha256": "8962ff37bdb51be1adc1132f9e0acaec5aa66eff1d8c6bf7123e4576f5e6da86"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12598-2024",
+   "short": "Ordenanza 12598/2024",
+   "title": "Ordenanza 12598/2024: Modifíquese el artículo 4° de la Ordenanza 9797, que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2125247",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2125247",
+     "sha256": "156c8002f6d2b3240935ed011481c9ffa2293fa80b323a1d34d0ad5c2e8a8b57"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12599-2024",
+   "short": "Ordenanza 12599/2024",
+   "title": "Ordenanza 12599/2024: Ratificase el Convenio celebrado entre la Municipalidad y Cáritas, Liga Popular de Lucha contra el Cáncer (LIPOLCC) e Institución de Apoyo a Personas con Capacidades Diferentes (IDANI), según establece el ANEXO que forma",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2125250",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2125250",
+     "sha256": "efbc7e1585bbdf74239e224bf70d414c1cb68a6ef2ec85900880e7fc58218b3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12600-2024",
+   "short": "Ordenanza 12600/2024",
+   "title": "Ordenanza 12600/2024: Desígnese con el nombre de \"Gobernador Antonio Cafiero\" al tramo de la Diagonal 74 comprendido entre las Avenidas 1 y 122, en cumplimiento con lo establecido en la Ordenanza Nº 11011/12.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2125252",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2125252",
+     "sha256": "5693ef7fde3b4b69d22ca4eb7071f80c0326c0a153cca9d92a0198e951a970f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12601-2024",
+   "short": "Ordenanza 12601/2024",
+   "title": "Ordenanza 12601/2024: Ratifíquense los Convenios de Cooperación Mutua suscriptos entre el Departamento Ejecutivo y Aguas Bonaerenses S.A. -AB.S.A.- los días 2 de mayo y 10 de septiembre de 2024 que como Anexo I y II pasan a formar parte de la",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2125279",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2125279",
+     "sha256": "6f66eb0c7df488ea0a067fa609553aa47f69417d6198ae9a4714930494d63fb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12602-2024",
+   "short": "Ordenanza 12602/2024",
+   "title": "Ordenanza 12602/2024: Promuévase la toma de acciones para abordar la problemática de las apuestas compulsivas en el Municipio de La Plata.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2131095",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 14,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2131095",
+     "sha256": "d48eb18ef4d6d00d206eba40c3f98b66359a2dcde04bb3a11add1c2520554660"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12603-2024",
+   "short": "Ordenanza 12603/2024",
+   "title": "Ordenanza 12603/2024: Adhiérase la Municipalidad de La Plata a la Ley Nacional 27654 de \"Situación de calle y familias sin techo\".",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2131096",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2131096",
+     "sha256": "ba8e03f8708bede509faf9ba73c90988de8ef561de1d5cc61fab3810d6982a85"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12604-2024",
+   "short": "Ordenanza 12604/2024",
+   "title": "Ordenanza 12604/2024: Ratifícase el Decreto N°2324/24 del Departamento Ejecutivo, que autoriza la extensión del plazo de prórroga de las concesiones del Servicio de Transporte Público de Pasajeros, el cual se adjunta como Anexo y forma parte ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2131097",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11506/contents/2131097",
+     "sha256": "d16ef5f680899eb8f78daaae0e03b3af721ab1f3904ec8913df8f34a12b8a0b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12596-2024",
+   "short": "Ordenanza 12596/2024",
+   "title": "Ordenanza 12596/2024: Autorizase al Departamento Ejecutivo a la colocación de una placa con el nombre del Dr. Pedro López en la Sala y Biblioteca de autores platenses del Complejo Bibliotecario Municipal Francisco López Merino.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11398/contents/2120500",
+   "versions": [
+    {
+     "from": "2024-10-19",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11398/contents/2120500",
+     "sha256": "b586bdc8ae231eb31aa46a90a7cea632f26a2afdaa4d3f80d20898564da8a4ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12594-2024",
+   "short": "Ordenanza 12594/2024",
+   "title": "Ordenanza 12594/2024: Establézcase la obligatoriedad de realizar capacitación en RCP básico (Reanimación cardiopulmonar básica) y uso de DEA (Desfibrilador Externo Automático) para todo el personal de la Municipalidad de La Plata y el Concejo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11218/contents/2104770",
+   "versions": [
+    {
+     "from": "2024-09-29",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11218/contents/2104770",
+     "sha256": "dd1045ddbf08497dc68406f2b72267adec89b9aa6be5cb7cb29a0fdb500ddfa2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12589-2024",
+   "short": "Ordenanza 12589/2024",
+   "title": "Ordenanza 12589/2024: Otorgase un espacio de Ascenso y descenso de personas con capacidades diferentes y/o movilidad reducida, desde vehículos de transporte público, particulares o autos de alquiler, frente a la Caja de Retiros, Jubilaciones ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11055/contents/2087402",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11055/contents/2087402",
+     "sha256": "4a5ebc09ff9f113be7671b365d70a3575973011fed7b4523bfe6c6934a361386"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12590-2024",
+   "short": "Ordenanza 12590/2024",
+   "title": "Ordenanza 12590/2024: Establézcase que los grandes generadores de residuos domiciliarios y/o residuos industriales no especiales ubicados en el Partido de La Plata deberán implementar un plan de Gestión Integral e Inclusiva de los Residuos Só",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11055/contents/2087403",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11055/contents/2087403",
+     "sha256": "37349ed828cd3947d776d92aedde110f6d5036306f5f471495efd0019e2be31c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12591-2024",
+   "short": "Ordenanza 12591/2024",
+   "title": "Ordenanza 12591/2024: lnstáurese en el Partido de La Plata, el \"Día de las Víctimas de los Accidentes de Tránsito\", el tercer domingo del mes de noviembre de cada año, en conmemoración y reconocimiento de las víctimas de los accidentes de trá",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11055/contents/2095690",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11055/contents/2095690",
+     "sha256": "072ae881dc171bd04a745258543b3fce81249d0c3068c43e11492f9d5231d09d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12592-2024",
+   "short": "Ordenanza 12592/2024",
+   "title": "Ordenanza 12592/2024: Modifíquese los Artículos 1º y 2º de la Ordenanza N° 12.299, los que quedarán redactados de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11055/contents/2097864",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11055/contents/2097864",
+     "sha256": "efc54fa040aae2f5b5eca16e581de877ee34ffb11eb9bd1dd319057c4a49d4f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12593-2024",
+   "short": "Ordenanza 12593/2024",
+   "title": "Ordenanza 12593/2024: Apruébase las obras de infraestructura del \"Plan 1000 cuadras\" que como Anexos I y II forman parte de la presente Ordenanza, declarándolas de utilidad pública.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11055/contents/2098009",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11055/contents/2098009",
+     "sha256": "fb7cad1fff0b21e79b4809a72edd1a2b519c53b654262de8c077423c4bdccb33"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12587-2024",
+   "short": "Ordenanza 12587/2024",
+   "title": "Ordenanza 12587/2024: Autorizase al Departamento Ejecutivo a promover las obras de puesta en valor de las Plazas Italia y Rocha, acorde a los proyectos que se acompañan en los Anexos II y III, adjuntos a la presente, así como también fueron d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10928/contents/2079442",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10928/contents/2079442",
+     "sha256": "55c90bc4735841c732631821b377b33f657d549a89398ce8cc719350a7640037"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-la-plata",
+  "code": "AR-B-LA-PLATA",
+  "name": "La Plata",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-la-plata-city-law",
+  "build": "built: municipal ordinances (200 ordinances, 200 versions) from https://sibom.slyt.gba.gob.ar/cities/66",
+  "language": "es",
+  "sources": 1
+}
