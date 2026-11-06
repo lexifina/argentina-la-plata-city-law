@@ -1,5 +1,7 @@
 # La Plata: municipal law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of La Plata, Buenos Aires, Argentina, which global-law reads at `argentina/buenos-aires/la-plata/acts/`.
+
 The municipal law of the city of La Plata, capital of the Province of Buenos Aires (Partido de La Plata), Argentina, as a git history: one file per article, one commit per ordinance on the day it took effect. `git log` lists the changes; checking out a date gives the text the record holds for that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ar-b-la-plata/`. The province's law is in [lexifina/argentina-buenos-aires-law](https://github.com/lexifina/argentina-buenos-aires-law) and Argentina's national law in [lexifina/argentina-law](https://github.com/lexifina/argentina-law).
